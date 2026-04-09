@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mendover-theme-1.mysapo.net	TRUE	/	FALSE	1999999999	cart	2e41354c6f68ac97fd8ef8b953faa3bd
+mendover-theme-1.mysapo.net	TRUE	/	FALSE	1999999999	cart_sig	bbd7372ba2433c02901bdd30bf2b7bbd
+mendover-theme-1.mysapo.net	TRUE	/	FALSE	1999999999	_landing_page	%2F
+nhadep-nblog.com	TRUE	/	FALSE	1999999999	server_name_session	60a5cea0395b2cd3d81bf242f5f20a91
+www.pinterest.com	TRUE	/	FALSE	1999999999	csrftoken	a09231c5eeb895864fc12b002438a9e1
+.pinterest.com	TRUE	/	FALSE	1999999999	_pinterest_sess	TWc9PSYvTUVMcHQyTU0vVlBPaUVrejV5SGxmZHZZMUoyS2ZwTnZ6MUJlb0ZjcjA0TVRUUThJODZUaENReFVmUkRxZU5hU2xPeFg4UXJYVkI4SmhlUitFTWpwRGE3LzA3dDl5VVMxS05xY2x6SUEraz0mQ0ZtWEVWY3lkQ3FRU0lBM2Vub3ZidmhITzVvPQ==
+www.pinterest.com	TRUE	/	FALSE	1999999999	samesite	none
+.pinterest.com	TRUE	/	FALSE	1999999999	_auth	0
+www.pinterest.com	TRUE	/	FALSE	1999999999	_routing_id	86836a7b-af30-4f80-b3cd-514beed1304d"
+mendover-theme-1.mysapo.net	TRUE	/	FALSE	1999999999	cart_currency	VND
+mendover-theme-1.mysapo.net	TRUE	/	FALSE	1999999999	samesite	none
+
