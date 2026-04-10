@@ -1,6725 +1,3513 @@
-<!DOCTYPE html>
-<html lang="vi">
-	
-<!-- Mirrored from theme-furniture-2.mysapo.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Apr 2026 03:33:24 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
-<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">				
-		<title>
-			Theme Furniture - Theme bán hàng nội thất đẹp nhất bizweb
-			
-			
-			 Theme Furniture - Cửa hàng nội thất			
-		</title>
-
-		<!-- ================= Page description ================== -->
-		
-		<meta name="description" content="Cửa hàng nội thất Furniture chuyên cung cấp tất cả các mặt hàng nội thất cao cấp trong nước và quốc tế">
-		
-		<!-- ================= Meta ================== -->
-		<meta name="keywords" content="theme bikini, theme mùa hè, giao diện web đẹp, theme bizweb thời trang"/>		
-		<link rel="canonical" href="index.html"/>
-		<meta name='revisit-after' content='1 days' />
-		<meta name="robots" content="noodp,index,follow" />
-		<!-- ================= Favicon ================== -->
-		
-		<link rel="icon" href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/faviconb60e.png?1676014753174" type="image/x-icon" />
-		
-		<!-- ================= Google Fonts ================== -->		
-
-		<!-- Facebook Open Graph meta tags -->
-		
-
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="Theme Furniture - Theme bán hàng nội thất đẹp nhất bizweb">
-	<meta property="og:image" content="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/logob60e.png?1676014753174">
-	<meta property="og:image:secure_url" content="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/logob60e.png?1676014753174">
-
-  <meta property="og:description" content="Cửa hàng nội thất Furniture chuyên cung cấp tất cả các mặt hàng nội thất cao cấp trong nước và quốc tế">
-  <meta property="og:url" content="index.html">
-  <meta property="og:site_name" content="Theme Furniture - Cửa hàng nội thất">		
-	<link rel="preload" as='style' type="text/css" href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/plugin.scssb60e.css?1676014753174">
-	<link href="{{asset('template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/plugin.scssb60e.css?1676014753174') }}" rel="stylesheet" type="text/css" media="all" />		
-	<!-- Build Main CSS -->	
-	<link rel="preload" as='style' type="text/css" href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/base.scssb60e.css?1676014753174">
-	
-	<link rel="preload" as='style' type="text/css" href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/style.scssb60e.css?1676014753174">
-	<link rel="preload" as='style' type="text/css" href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/update.scssb60e.css?1676014753174">
-	<link rel="preload" as='style' type="text/css" href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/module.scssb60e.css?1676014753174">
-	<link rel="preload" as='style' type="text/css" href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/responsive.scssb60e.css?1676014753174">
-	<link href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/base.scssb60e.css?1676014753174" rel="stylesheet" type="text/css" media="all" />		
-	<link href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/style.scssb60e.css?1676014753174" rel="stylesheet" type="text/css" media="all" />		
-	<link href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/update.scssb60e.css?1676014753174" rel="stylesheet" type="text/css" media="all" />		
-	<link href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/module.scssb60e.css?1676014753174" rel="stylesheet" type="text/css" media="all" />
-	<link href="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/responsive.scssb60e.css?1676014753174" rel="stylesheet" type="text/css" media="all" />
-	<!-- Header JS -->	
-	<script src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/jquery-2.2.3.minb60e.js?1676014753174" type="text/javascript"></script>
-
-
-
-
-		<!-- Bizweb javascript customer -->
-				
-		
-		
-		
-
-		
-
-		<!-- Bizweb conter for header -->
-	<script>
-	var Bizweb = Bizweb || {};
-	Bizweb.store = 'theme-furniture-2.mysapo.net';
-	Bizweb.id = 210557;
-	Bizweb.theme = {"id":801960,"name":"furniture-16122020","role":"main"};
-	Bizweb.template = 'index';
-	if(!Bizweb.fbEventId)  Bizweb.fbEventId = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
-	var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
-				return v.toString(16);
-			});		
-</script>
-<script>
-	(function () {
-		function asyncLoad() {
-			var urls = [];
-			for (var i = 0; i < urls.length; i++) {
-				var s = document.createElement('script');
-				s.type = 'text/javascript';
-				s.async = true;
-				s.src = urls[i];
-				var x = document.getElementsByTagName('script')[0];
-				x.parentNode.insertBefore(s, x);
-			}
-		};
-		window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
-	})();
-</script>
-
-
-<script>
-	window.BizwebAnalytics = window.BizwebAnalytics || {};
-	window.BizwebAnalytics.meta = window.BizwebAnalytics.meta || {};
-	window.BizwebAnalytics.meta.currency = 'VND';
-	window.BizwebAnalytics.tracking_url = 's.html';
-
-	var meta = {};
-	
-	
-	for (var attr in meta) {
-	window.BizwebAnalytics.meta[attr] = meta[attr];
-	}
-</script>
-
-	
-		<script src="dist/js/stats.minbadf.js?v=96f2ff2"></script>
-	
-
-
-
-
-
-
-
-
-
-
-
-		
-
-	<script>var ProductReviewsAppUtil=ProductReviewsAppUtil || {};ProductReviewsAppUtil.store={name: 'Theme Furniture - Cửa hàng nội thất'};</script>
-</head>
-	<body>		
-		<!-- Main content -->
-
-		<header class="header">	
-	<div class="topbar">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-6 col-sm-6 col-md-7 a-left">
-
-					<span class="header-contact-item"><i class="fa fa-phone-square"></i>
-						<a href="tel:1900 6750">1900 6750</a>
-					</span>
-					<span class="hidden-xs hidden-sm fix-iconline"> | </span>
-					<span class="header-contact-item hidden-sm  hidden-xs "><i class="fa fa-envelope"></i>
-						<a href="cdn-cgi/l/email-protection.html#c7b4b2b7b7a8b5b387b4a6b7a8e9b1a9"><span class="__cf_email__" data-cfemail="7d0e080d0d120f093d0e1c0d12530b13">[email&#160;protected]</span></a>
-					</span>
-
-				</div>
-				<div class="col-xs-6 col-sm-6 col-md-5 col-xs-12">
-					<div class="top-cart-contain f-right">
-						<div class="pull-right dropdown-toggle account">
-							<a href="account/logina3b1.html" class="header-icon" style="font-size: 14px;"><i class="fa fa-user"></i> Tài khoản</a>
-							<ul class="dropdown-content dr-left" style="width: 200px;line-height: 26px;">
-																
-								<li><a href="account/register.html"><i class="fa fa-user-plus"></i> Đăng ký</a></li>
-								<li><a href="account/login.html"><i class="fas fa-user-lock"></i> Đăng nhập</a></li>								
-
-									
-								
-							</ul>
-						</div>
-						<div class="pull-right dropdown-toggle account hidden-xs fixcheckout">
-							<a href="cart.html" class="header-icon" style="font-size: 14px;"><i class="fas fa-user-check"></i> Thanh toán</a>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
-	<div class="container relative">
-		<div class="menu-bar hidden-md hidden-lg">
-			<img src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/menu-barb60e.png?1676014753174" alt="menu bar" />
-		</div>
-
-
-
-		<div class="header-main">
-			<div class="row">
-
-				<div class="col-xs-12 col-md-2 a-left">
-					<div class="logo">						
-						
-						<a href="index.html" class="logo-wrapper ">					
-							<img src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/logob60e.png?1676014753174" alt="logo ">					
-						</a>
-												
-					</div>
-				</div>
-				<div class="col-xs-12  col-md-10 ">
-					<div class="top-cart-contain f-right">
-						<div class="mini-cart text-xs-center pull-right">
-							<div class="heading-cart">
-								<a href="cart.html" class="cart-label header-icon">
-									<i class="fa fa-shopping-cart"></i>
-									<div class="cart-info hidden-sm hidden-xs">
-										<label style=" line-height: 1; ">Giỏ hàng</label>
-										(<span class="cartCount count_item_pr" id="cart-total">0</span>) Sản phẩm
-									</div>
-								</a>
-							</div>	
-							<div class="top-cart-content hidden-md hidden-sm hidden-xs">					
-								<ul id="cart-sidebar" class="mini-products-list count_li">
-									<li class="list-item">
-										<ul></ul>
-									</li>
-									<li class="action">
-										<ul>
-											<li class="li-fix-1">
-												<div class="top-subtotal">
-													Tổng tiền thanh toán: 
-													<span class="price"></span>
-												</div>
-											</li>
-											<li class="li-fix-2" style="">
-												<div class="actions">
-													<a href="cart.html" class="btn btn-primary">
-														<span>Giỏ hàng</span>
-													</a>
-													<a href="cart.html" class="btn btn-checkout btn-gray">
-														<span>Thanh toán</span>
-													</a>
-												</div>
-											</li>
-										</ul>
-									</li>
-								</ul>
-							</div>
-						</div>		
-
-
-
-						<div class="pull-right">
-
-							<div class="header_search">
-								<div class="icon-search-mobile hidden-sm hidden-md hidden-lg">
-									<i class="fa fa-search"></i>
-								</div>
-								<form class="input-group search-bar" action="https://theme-furniture-2.mysapo.net/search" method="get" role="search">
-									<div class="collection-selector">
-										<div class="search_text">Tất cả</div>
-										<div id="search_info" class="list_search" style="display: none;">
-											  
-											<div class="search_item" data-coll-id="1038606">Bàn làm việc</div>
-											  
-											<div class="search_item" data-coll-id="1038605">Bàn ghế gỗ</div>
-											  
-											<div class="search_item" data-coll-id="1038604">Ghế Sofa</div>
-											  
-											<div class="search_item" data-coll-id="1038600">Ghế tựa</div>
-											  
-											<div class="search_item" data-coll-id="1038599">Bộ bàn ghế</div>
-											  
-											<div class="search_item" data-coll-id="1037404">Sản phẩm nổi bật</div>
-											  
-											<div class="search_item" data-coll-id="1037403">Sản phẩm khuyến mãi</div>
-											  
-											<div class="search_item" data-coll-id="1037402">Trang chủ</div>
-											  
-											<div class="search_item" data-coll-id="1035305">Phòng ngủ</div>
-											
-											<div class="liner_search"></div>
-											<div class="search_item active" data-coll-id="0">Tất cả</div>
-										</div>
-									</div>
-									<input style="padding-left: 102px;" type="search" name="query" value="" placeholder="Tìm kiếm... " class="input-group-field st-default-search-input search-text" autocomplete="off">
-									<span class="input-group-btn">
-										<button class="btn icon-fallback-text">
-											<i class="fa fa-search"></i>
-										</button>
-									</span>
-								</form>
-							</div>
-						</div>
-
-					</div>						
-				</div>
-
-
-				<div class="col-xs-12">
-					<nav>
-						<ul id="nav-mobile" class="nav hidden-md hidden-lg">
-							
-
-
-							
-							<li class="nav-item active"><a class="nav-link" href="index.html">Trang chủ</a></li>		
-							
-							
-
-
-							
-							<li class="nav-item ">
-								<a href="collections/all.html" class="nav-link">Sản phẩm <i class="fa faa fa-angle-right"></i></a>
-
-								<ul class="dropdown-menu">
-									
-									
-									<li class="dropdown-submenu nav-item-lv2">
-										<a class="nav-link" href="collections/all.html">Nội thất phòng khách <i class="fa faa fa-angle-right"></i></a>
-
-										<ul class="dropdown-menu">
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="san-pham-khuyen-mai.html">Đang khuyến mãi</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="ban-ghe-go.html">Bàn ghế gỗ</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="bo-ban-ghe.html">Bộ bàn ghế</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="ghe-tua.html">Ghế tựa</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="san-pham-noi-bat.html">Sản phẩm hot</a>
-											</li>						
-											
-										</ul>                      
-									</li>
-									
-									
-									
-									<li class="dropdown-submenu nav-item-lv2">
-										<a class="nav-link" href="collections/all.html">Nội thất phòng ngủ <i class="fa faa fa-angle-right"></i></a>
-
-										<ul class="dropdown-menu">
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="phong-ngu.html">Nội thất phòng ngủ 1</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="phong-ngu.html">Nội thất phòng ngủ 2</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="phong-ngu.html">Nội thất phòng ngủ 3</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="phong-ngu.html">Nội thất phòng ngủ 4</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="phong-ngu.html">Nội thất phòng ngủ 5</a>
-											</li>						
-											
-										</ul>                      
-									</li>
-									
-									
-									
-									<li class="dropdown-submenu nav-item-lv2">
-										<a class="nav-link" href="collections/all.html">Nội thất phòng bếp <i class="fa faa fa-angle-right"></i></a>
-
-										<ul class="dropdown-menu">
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="#">Đây chỉ là menu demo</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="#">Đây chỉ là menu demo</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="#">Đây chỉ là menu demo</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="#">Đây chỉ là menu demo</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="#">Đây chỉ là menu demo</a>
-											</li>						
-											
-										</ul>                      
-									</li>
-									
-									
-									
-									<li class="dropdown-submenu nav-item-lv2">
-										<a class="nav-link" href="collections/all.html">Nội thất khác <i class="fa faa fa-angle-right"></i></a>
-
-										<ul class="dropdown-menu">
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="index.html">Đây chỉ là menu demo</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="index.html">Đây chỉ là menu demo</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="index.html">Đây chỉ là menu demo</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="index.html">Đây chỉ là menu demo</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="index.html">Đây chỉ là menu demo</a>
-											</li>						
-											
-										</ul>                      
-									</li>
-									
-									
-
-								</ul>
-
-							</li>
-
-							
-							
-
-
-							
-							<li class="nav-item ">
-								<a href="tin-tuc.html" class="nav-link">Blog <i class="fa faa fa-angle-right"></i></a>
-
-								<ul class="dropdown-menu">
-									
-									
-									<li class="nav-item-lv2">
-										<a class="nav-link" href="index.html">Menu demo cấp 2 1</a>
-									</li>
-									
-									
-									
-									<li class="dropdown-submenu nav-item-lv2">
-										<a class="nav-link" href="index.html">Menu demo cấp 2 2 <i class="fa faa fa-angle-right"></i></a>
-
-										<ul class="dropdown-menu">
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="index.html">Menu demo cấp 3</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="index.html">Menu demo cấp 3</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="index.html">Menu demo cấp 3</a>
-											</li>						
-																	
-											<li class="nav-item-lv3">
-												<a class="nav-link" href="index.html">Menu demo cấp 3</a>
-											</li>						
-											
-										</ul>                      
-									</li>
-									
-									
-									
-									<li class="nav-item-lv2">
-										<a class="nav-link" href="index.html">Menu demo cấp 2 3</a>
-									</li>
-									
-									
-									
-									<li class="nav-item-lv2">
-										<a class="nav-link" href="index.html">Menu demo cấp 2 4</a>
-									</li>
-									
-									
-
-								</ul>
-
-							</li>
-
-							
-							
-
-
-							
-							<li class="nav-item "><a class="nav-link" href="gioi-thieu.html">Giới thiệu</a></li>		
-							
-							
-
-
-							
-							<li class="nav-item "><a class="nav-link" href="lien-he.html">Liên hệ</a></li>		
-							
-							
-						</ul>
-					</nav>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="hidden-sm hidden-xs static">
-
-		<nav>
-	<div class="container">
-		<ul id="nav" class="nav hidden-xs hidden-sm">
-			
-			
-			
-			
-			
-			
-			<li class="nav-item active"><a class="nav-link" href="index.html">Trang chủ</a></li>
-
-			
-			
-			
-			
-			
-			
-			
-			<li class="nav-item  has-mega">
-				<a href="collections/all.html" class="nav-link">Sản phẩm <i class="fa fa-angle-down" data-toggle="dropdown"></i></a>
-
-				
-				<div class="mega-content">
-    <div class="level0-wrapper2">
-       <div class="nav-block nav-block-center">
-		   <ul class="level0">
-		   
-			   
-			   <li class="level1 parent item"> <h2 class="h4"><a href="collections/all.html"><span>Nội thất phòng khách</span></a></h2> 
-				   <ul class="level1">
-					   
-					   <li class="level2"> <a href="san-pham-khuyen-mai.html"><span>Đang khuyến mãi</span></a> </li>
-					   
-					   <li class="level2"> <a href="ban-ghe-go.html"><span>Bàn ghế gỗ</span></a> </li>
-					   
-					   <li class="level2"> <a href="bo-ban-ghe.html"><span>Bộ bàn ghế</span></a> </li>
-					   
-					   <li class="level2"> <a href="ghe-tua.html"><span>Ghế tựa</span></a> </li>
-					   
-					   <li class="level2"> <a href="san-pham-noi-bat.html"><span>Sản phẩm hot</span></a> </li>
-					   
-				   </ul>
-			   </li>
-			   
-		   
-			   
-			   <li class="level1 parent item"> <h2 class="h4"><a href="collections/all.html"><span>Nội thất phòng ngủ</span></a></h2> 
-				   <ul class="level1">
-					   
-					   <li class="level2"> <a href="phong-ngu.html"><span>Nội thất phòng ngủ 1</span></a> </li>
-					   
-					   <li class="level2"> <a href="phong-ngu.html"><span>Nội thất phòng ngủ 2</span></a> </li>
-					   
-					   <li class="level2"> <a href="phong-ngu.html"><span>Nội thất phòng ngủ 3</span></a> </li>
-					   
-					   <li class="level2"> <a href="phong-ngu.html"><span>Nội thất phòng ngủ 4</span></a> </li>
-					   
-					   <li class="level2"> <a href="phong-ngu.html"><span>Nội thất phòng ngủ 5</span></a> </li>
-					   
-				   </ul>
-			   </li>
-			   
-		   
-			   
-			   <li class="level1 parent item"> <h2 class="h4"><a href="collections/all.html"><span>Nội thất phòng bếp</span></a></h2> 
-				   <ul class="level1">
-					   
-					   <li class="level2"> <a href="#"><span>Đây chỉ là menu demo</span></a> </li>
-					   
-					   <li class="level2"> <a href="#"><span>Đây chỉ là menu demo</span></a> </li>
-					   
-					   <li class="level2"> <a href="#"><span>Đây chỉ là menu demo</span></a> </li>
-					   
-					   <li class="level2"> <a href="#"><span>Đây chỉ là menu demo</span></a> </li>
-					   
-					   <li class="level2"> <a href="#"><span>Đây chỉ là menu demo</span></a> </li>
-					   
-				   </ul>
-			   </li>
-			   
-		   
-			   
-			   <li class="level1 parent item"> <h2 class="h4"><a href="collections/all.html"><span>Nội thất khác</span></a></h2> 
-				   <ul class="level1">
-					   
-					   <li class="level2"> <a href="index.html"><span>Đây chỉ là menu demo</span></a> </li>
-					   
-					   <li class="level2"> <a href="index.html"><span>Đây chỉ là menu demo</span></a> </li>
-					   
-					   <li class="level2"> <a href="index.html"><span>Đây chỉ là menu demo</span></a> </li>
-					   
-					   <li class="level2"> <a href="index.html"><span>Đây chỉ là menu demo</span></a> </li>
-					   
-					   <li class="level2"> <a href="index.html"><span>Đây chỉ là menu demo</span></a> </li>
-					   
-				   </ul>
-			   </li>
-			   
-		   
-		   </ul>
-	   </div>
-	 </div>
-</div>
-				
-			</li>
-
-			
-			
-			
-			
-			
-			
-			
-			<li class="nav-item ">
-				<a href="tin-tuc.html" class="nav-link">Blog <i class="fa fa-angle-down" data-toggle="dropdown"></i></a>
-
-							
-				<ul class="dropdown-menu">
-					
-					
-					<li class="nav-item-lv2">
-						<a class="nav-link" href="index.html">Menu demo cấp 2 1</a>
-					</li>
-					
-					
-					
-					<li class="dropdown-submenu nav-item-lv2">
-						<a class="nav-link" href="index.html">Menu demo cấp 2 2 <i class="fa fa-angle-right"></i></a>
-
-						<ul class="dropdown-menu">
-													
-							<li class="nav-item-lv3">
-								<a class="nav-link" href="index.html">Menu demo cấp 3</a>
-							</li>						
-													
-							<li class="nav-item-lv3">
-								<a class="nav-link" href="index.html">Menu demo cấp 3</a>
-							</li>						
-													
-							<li class="nav-item-lv3">
-								<a class="nav-link" href="index.html">Menu demo cấp 3</a>
-							</li>						
-													
-							<li class="nav-item-lv3">
-								<a class="nav-link" href="index.html">Menu demo cấp 3</a>
-							</li>						
-							
-						</ul>                      
-					</li>
-					
-					
-					
-					<li class="nav-item-lv2">
-						<a class="nav-link" href="index.html">Menu demo cấp 2 3</a>
-					</li>
-					
-					
-					
-					<li class="nav-item-lv2">
-						<a class="nav-link" href="index.html">Menu demo cấp 2 4</a>
-					</li>
-					
-					
-
-				</ul>
-				
-			</li>
-
-			
-			
-			
-			
-			
-			
-			
-			<li class="nav-item "><a class="nav-link" href="gioi-thieu.html">Giới thiệu</a></li>
-
-			
-			
-			
-			
-			
-			
-			
-			<li class="nav-item "><a class="nav-link" href="lien-he.html">Liên hệ</a></li>
-
-			
-			
-		</ul>
-
-	</div>
-</nav>
-	</div>
-
-</header>
-
-		<h1 class="hidden">Theme Furniture - Cửa hàng nội thất</h1>
-
-
-
-
-<section class="awe-section-1">	
-	<div class="main-slider">
-	<div class="home-slider " data-lg-items='1' data-md-items='1' data-sm-items='1' data-xs-items="1" data-margin='0' data-nav="true" data-dot="true">
-		
-		
-		
-		
-		
-
-		
-		<div class="item">
-			<a href="#" class="clearfix">
-				<img src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/slider_1b60e.jpg?1676014753174" alt="alt slider demo">
-			</a>	
-		</div>
-		
-		
-		
-		
-		
-		
-
-		
-		
-		
-		
-		
-		
-
-		
-		
-		
-		
-		
-		
-
-		
-		
-		
-		
-		
-		
-
-		
-		
-	</div>
-</div>
-<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
-	$('.home-slider').slick({
-		lazyLoad: 'ondemand',
-		centerMode: false,
-		focusOnSelect: true,
-		dots: false,
-		loop: false,
-		dots: false,
-		arrows: false,
-		slidesToShow: 1
-
-	});
-</script>
-</section>
-
-
-
-
-
-<section class="awe-section-2">	
-	<div class="widget widget-policy hidden-xs">
-	<div class="container">
-		<div class="widget-inner">
-			<div class="row row-noGutter">
-				
-				
-				
-				
-				<div class="col-md-4 col-sm-4">
-					<div class="policy-item">
-						<div class="media flexbox">							
-							<img src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/policy1b60e.png?1676014753174" alt="MIỄN PHÍ VẬN CHUYỂN">
-						</div>
-
-						<span>MIỄN PHÍ VẬN CHUYỂN</span>
-						<p>Trong 10km với mọi đơn đặt hàng </p>
-
-					</div><!-- /.policy -->
-				</div>
-				
-				
-				
-				
-				<div class="col-md-4 col-sm-4">
-					<div class="policy-item">
-						<div class="media flexbox">							
-							<img src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/policy2b60e.png?1676014753174" alt="HOÀN TIỀN">
-						</div>
-
-						<span>HOÀN TIỀN</span>
-						<p>100% trong vòng 30 ngày</p>
-
-					</div><!-- /.policy -->
-				</div>
-				
-				
-				
-				
-				<div class="col-md-4 col-sm-4">
-					<div class="policy-item">
-						<div class="media flexbox">							
-							<img src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/policy3b60e.png?1676014753174" alt="HỖ TRỢ  24/24">
-						</div>
-
-						<span>HỖ TRỢ  24/24</span>
-						<p>Gọi 19001009 bất cứ lúc nào</p>
-
-					</div><!-- /.policy -->
-				</div>
-								
-			</div>
-		</div>
-	</div>
-</div>
-</section>
-
-
-
-
-
-<section class="awe-section-3">	
-	<div class="section section-collections">
-	<div class="container">
-		<div class="row">
-
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			<div class="col-xs-12 col-sm-6">
-				<div class="collection-item large relative">
-					<a href="bo-ban-ghe.html">
-						<img  class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="https://bizweb.dktcdn.net/100/210/557/collections/b1.jpg?v=1494066568667" alt="Bộ bàn ghế" title="Bộ bàn ghế"/>
-					</a>	
-					<div class="collection-info absolute">
-						<h3><a href="bo-ban-ghe.html">Bộ bàn ghế</a></h3>
-						<p>Những mẫu bộ bàn ghế mới nhất cho phòng<br />
-khách của bạn trong hè này</p>
-						<a href="bo-ban-ghe.html" class="btn btn-outline margin-top-10">Xem ngay</a>
-					</div>
-				</div>
-			</div>
-			
-
-			
-			
-			
-			
-			
-			
-			
-
-			
-			
-			
-			
-			
-			
-			
-
-			
-			
-			
-			
-			
-			
-			
-
-			
-			
-			
-			
-			
-			
-			
-
-			
-			
-
-
-			<div class="col-xs-12 col-sm-6">
-				<div class="row">
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-
-					
-					
-					
-					
-					
-					
-					
-					<div class="col-xs-6 col-sm-6">
-						<div class="collection-item relative">
-							<a href="ghe-tua.html">
-								<img  class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="https://bizweb.dktcdn.net/100/210/557/collections/b2.jpg?v=1494066587617" alt="Ghế tựa" title="Ghế tựa"/>
-							</a>					
-							<div class="collection-info absolute">
-								<h3><a href="ghe-tua.html">Ghế tựa</a></h3>
-								<p>Những mẫu ghế tựa mới nhất</p>
-							</div>
-						</div>
-					</div>
-					
-
-					
-					
-					
-					
-					
-					
-					
-					<div class="col-xs-6 col-sm-6">
-						<div class="collection-item relative">
-							<a href="ghe-sofa.html">
-								<img  class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="https://bizweb.dktcdn.net/100/210/557/collections/b3.jpg?v=1494066603333" alt="Ghế Sofa" title="Ghế Sofa"/>
-							</a>					
-							<div class="collection-info absolute">
-								<h3><a href="ghe-sofa.html">Ghế Sofa</a></h3>
-								<p>Những mẫu ghế sofa&nbsp;mới nhất</p>
-							</div>
-						</div>
-					</div>
-					
-
-					
-					
-					
-					
-					
-					
-					
-					<div class="col-xs-6 col-sm-6">
-						<div class="collection-item relative">
-							<a href="ban-ghe-go.html">
-								<img  class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="https://bizweb.dktcdn.net/100/210/557/collections/b4.jpg?v=1494066616753" alt="Bàn ghế gỗ" title="Bàn ghế gỗ"/>
-							</a>					
-							<div class="collection-info absolute">
-								<h3><a href="ban-ghe-go.html">Bàn ghế gỗ</a></h3>
-								<p>Những mẫu bàn ghế mới nhất</p>
-							</div>
-						</div>
-					</div>
-					
-
-					
-					
-					
-					
-					
-					
-					
-					<div class="col-xs-6 col-sm-6">
-						<div class="collection-item relative">
-							<a href="ban-lam-viec.html">
-								<img  class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="https://bizweb.dktcdn.net/100/210/557/collections/b5.jpg?v=1494066632437" alt="Bàn làm việc" title="Bàn làm việc"/>
-							</a>					
-							<div class="collection-info absolute">
-								<h3><a href="ban-lam-viec.html">Bàn làm việc</a></h3>
-								<p>Những mẫu bàn làm việc&nbsp;mới nhất</p>
-							</div>
-						</div>
-					</div>
-					
-
-					
-					
-
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-</section>
-
-
-
-
-
-<section class="awe-section-4">	
-	
-
-<div class="section section_tab_product a-center products-view-grid">
-	<div class="container">		
-		<div class="e-tabs">
-			<div class="row row-noGutter">					
-				<div class="col-sm-12">
-					<div class="content">								
-						<div>		
-							<h2>Sản phẩm mới</h2>
-							<ul class="tabs tabs-title clearfix">	
-								
-								
-															
-								
-								<li class="tab-link" data-tab="tab-1">
-									<span>Mới nhất</span>
-								</li>																	
-								
-								
-								
-															
-								
-								<li class="tab-link" data-tab="tab-2">
-									<span>Nổi bật</span>
-								</li>																	
-								
-								
-								
-															
-								
-								<li class="tab-link" data-tab="tab-3">
-									<span>Bán chạy</span>
-								</li>																	
-								
-								
-								
-															
-								
-								
-								
-															
-								
-								
-							</ul>
-							
-							
-														
-							
-							
-							<div id="tab-1" class="tab-content">
-								<div class="products row row-gutter-14">
-									
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/39.jpg?v=1493897732810" alt="Đèn trang trí vách Netviet NV 016">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-016.html" data-handle="den-trang-tri-vach-netviet-nv-016" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">Đèn trang trí vách Netviet NV 016</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">690.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665253" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593291" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/37.jpg?v=1493897732273" alt="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" data-handle="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">970.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665252" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593289" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/82dd513b5ca0b4e058c5f74ac5700b.jpg?v=1493897731777" alt="Đèn trang trí vách cao cấp NETVIET NV 8825">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" data-handle="den-trang-tri-vach-cao-cap-netviet-nv-8825" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">Đèn trang trí vách cao cấp NETVIET NV 8825</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">780.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665251" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593288" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/9.jpg?v=1493897731053" alt="Đèn trang trí vách Netviet NV 8205/1">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-8205-1.html" data-handle="den-trang-tri-vach-netviet-nv-8205-1" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">Đèn trang trí vách Netviet NV 8205/1</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">590.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665250" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593287" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/6.jpg?v=1493897730310" alt="Đèn tường Composite An Phước B948">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-tuong-composite-an-phuoc-b948.html" data-handle="den-tuong-composite-an-phuoc-b948" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">Đèn tường Composite An Phước B948</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">10.000.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665249" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593286" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/4.jpg?v=1493897729767" alt="Đèn treo pha lê green light">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-treo-pha-le-green-light.html" data-handle="den-treo-pha-le-green-light" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">Đèn treo pha lê green light</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">150.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665248" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593285" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="giuong-bmy.html" title="Giường BMY">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood88591626222zoomf5a07d81.jpg?v=1493897729220" alt="Giường BMY">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="giuong-bmy.html" data-handle="giuong-bmy" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="giuong-bmy.html" title="Giường BMY">Giường BMY</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">14.490.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665247" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input class="hidden" type="hidden" name="variantId" value="10806291" />
-				<button class="btn btn-white btn-cart btn  left-to"   title="Chọn sản phẩm"  type="button" onclick="window.location.href='giuong-bmy.html'" >
-					<i class="fas fa-plus"></i> Tùy chọn
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/tulip89482122121zoom.jpg?v=1493897728470" alt="Giường ngủ GN 016">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="giuong-ngu-gn-016.html" data-handle="giuong-ngu-gn-016" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">Giường ngủ GN 016</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">9.800.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665246" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593283" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-																
-								</div><!-- /.products -->
-							</div>		
-							
-							
-														
-							
-							
-							<div id="tab-2" class="tab-content">
-								<div class="products row row-gutter-14">
-									
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="ke-sach-5-tang-ubl.html" title="Kệ sách 5 tầng EWQ">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/indie03582230321zoom.jpg?v=1493897742273" alt="Kệ sách 5 tầng EWQ">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="ke-sach-5-tang-ubl.html" data-handle="ke-sach-5-tang-ubl" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="ke-sach-5-tang-ubl.html" title="Kệ sách 5 tầng EWQ">Kệ sách 5 tầng EWQ</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">567.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665264" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593302" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="ke-sach-big-one-vietnam-spr-1690prtdk.html" title="Kệ sách BIG ONE VIETNAM SPR-1690PRTDK">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/indie07797920321zoom.jpg?v=1493897743077" alt="Kệ sách BIG ONE VIETNAM SPR-1690PRTDK">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="ke-sach-big-one-vietnam-spr-1690prtdk.html" data-handle="ke-sach-big-one-vietnam-spr-1690prtdk" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="ke-sach-big-one-vietnam-spr-1690prtdk.html" title="Kệ sách BIG ONE VIETNAM SPR-1690PRTDK">Kệ sách BIG ONE VIETNAM SPR-1690PRTDK</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">645.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665265" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593303" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-quan-ao-big-one-vietnam-wvr-1855l.html" title="Tủ quần áo BIG ONE VIETNAM WVR-1855L">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/alexdaisy04517243221zoom.jpg?v=1493897743913" alt="Tủ quần áo BIG ONE VIETNAM WVR-1855L">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-quan-ao-big-one-vietnam-wvr-1855l.html" data-handle="tu-quan-ao-big-one-vietnam-wvr-1855l" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-quan-ao-big-one-vietnam-wvr-1855l.html" title="Tủ quần áo BIG ONE VIETNAM WVR-1855L">Tủ quần áo BIG ONE VIETNAM WVR-1855L</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">4.000.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665266" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593304" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-ao-b1241k.html" title="Tủ áo B1241K">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/alexdaisy18858943221zoom.jpg?v=1493897744660" alt="Tủ áo B1241K">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-b1241k.html" data-handle="tu-ao-b1241k" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-ao-b1241k.html" title="Tủ áo B1241K">Tủ áo B1241K</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">5.400.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665267" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593305" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-ao-bellasofa-b1239.html" title="Tủ Áo Bellasofa B1239">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30816024221zoom.jpg?v=1493897745420" alt="Tủ Áo Bellasofa B1239">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-bellasofa-b1239.html" data-handle="tu-ao-bellasofa-b1239" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-ao-bellasofa-b1239.html" title="Tủ Áo Bellasofa B1239">Tủ Áo Bellasofa B1239</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">3.790.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665268" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593306" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-ao-b1238.html" title="Tủ áo B1238">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30845024221zoom.jpg?v=1493897746203" alt="Tủ áo B1238">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-b1238.html" data-handle="tu-ao-b1238" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-ao-b1238.html" title="Tủ áo B1238">Tủ áo B1238</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">5.100.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665269" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593307" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-ao-hut.html" title="Tủ áo HUT">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30874024221zoom.jpg?v=1493897747000" alt="Tủ áo HUT">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-hut.html" data-handle="tu-ao-hut" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-ao-hut.html" title="Tủ áo HUT">Tủ áo HUT</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">8.000.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665270" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593308" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-qtr-01.html" title="Tủ QTR 01">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile31702024221zoom.jpg?v=1493897747867" alt="Tủ QTR 01">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-qtr-01.html" data-handle="tu-qtr-01" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-qtr-01.html" title="Tủ QTR 01">Tủ QTR 01</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">5.400.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665271" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593309" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-																
-								</div><!-- /.products -->
-							</div>		
-							
-							
-														
-							
-							
-							<div id="tab-3" class="tab-content">
-								<div class="products row row-gutter-14">
-									
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/39.jpg?v=1493897732810" alt="Đèn trang trí vách Netviet NV 016">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-016.html" data-handle="den-trang-tri-vach-netviet-nv-016" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">Đèn trang trí vách Netviet NV 016</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">690.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665253" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593291" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/37.jpg?v=1493897732273" alt="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" data-handle="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">970.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665252" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593289" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/82dd513b5ca0b4e058c5f74ac5700b.jpg?v=1493897731777" alt="Đèn trang trí vách cao cấp NETVIET NV 8825">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" data-handle="den-trang-tri-vach-cao-cap-netviet-nv-8825" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">Đèn trang trí vách cao cấp NETVIET NV 8825</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">780.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665251" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593288" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/9.jpg?v=1493897731053" alt="Đèn trang trí vách Netviet NV 8205/1">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-8205-1.html" data-handle="den-trang-tri-vach-netviet-nv-8205-1" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">Đèn trang trí vách Netviet NV 8205/1</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">590.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665250" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593287" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/6.jpg?v=1493897730310" alt="Đèn tường Composite An Phước B948">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-tuong-composite-an-phuoc-b948.html" data-handle="den-tuong-composite-an-phuoc-b948" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">Đèn tường Composite An Phước B948</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">10.000.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665249" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593286" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/4.jpg?v=1493897729767" alt="Đèn treo pha lê green light">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-treo-pha-le-green-light.html" data-handle="den-treo-pha-le-green-light" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">Đèn treo pha lê green light</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">150.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665248" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593285" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="giuong-bmy.html" title="Giường BMY">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood88591626222zoomf5a07d81.jpg?v=1493897729220" alt="Giường BMY">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="giuong-bmy.html" data-handle="giuong-bmy" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="giuong-bmy.html" title="Giường BMY">Giường BMY</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">14.490.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665247" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input class="hidden" type="hidden" name="variantId" value="10806291" />
-				<button class="btn btn-white btn-cart btn  left-to"   title="Chọn sản phẩm"  type="button" onclick="window.location.href='giuong-bmy.html'" >
-					<i class="fas fa-plus"></i> Tùy chọn
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-									         
-									<div class="col-xs-6 col-sm-4 col-lg-3">
-										
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/tulip89482122121zoom.jpg?v=1493897728470" alt="Giường ngủ GN 016">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="giuong-ngu-gn-016.html" data-handle="giuong-ngu-gn-016" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">Giường ngủ GN 016</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">9.800.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665246" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593283" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>																
-									</div>
-																
-								</div><!-- /.products -->
-							</div>		
-							
-							
-														
-							
-							
-							
-														
-							
-							
-																					
-
-						</div>
-					</div>
-				</div>
-			</div>			
-		</div>
-	</div>
-</div>
-</section>
-
-
-
-
-
-<section class="awe-section-5">	
-	<div class="section section-deal products-view-grid">	
-	<div class="container">
-		<div class="section-title a-center">
-			<h2 >Ghế sofa</h2>
-			
-			<p>Những mẫu bàn ghế mới nhất 2018</p>
-		</div>
-		<div class="section-content">	
-			
-			<div class="products products-view-grid  slick_col1"  data-md-items="4" data-sm-items="3" data-xs-items="2" data-margin="30" data-nav="true">
-				
-				      
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="ban-cafe-tron.html" title="Bàn tròn DKY">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/livingexpress57588224121zoom.jpg?v=1493897712413" alt="Bàn tròn DKY">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="ban-cafe-tron.html" data-handle="ban-cafe-tron" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="ban-cafe-tron.html" title="Bàn tròn DKY">Bàn tròn DKY</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">3.800.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665228" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593265" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>
-																		
-				      
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="ban-cafe-vuong-kinh.html" title="Bàn vuông kính">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/forzza62211640121zoom.jpg?v=1493897711627" alt="Bàn vuông kính">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="ban-cafe-vuong-kinh.html" data-handle="ban-cafe-vuong-kinh" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="ban-cafe-vuong-kinh.html" title="Bàn vuông kính">Bàn vuông kính</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">467.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665227" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593264" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>
-																		
-				      
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="ban-uong-cafe-go-dep.html" title="Bàn gỗ đẹp">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood30892881911zoom.jpg?v=1493897710837" alt="Bàn gỗ đẹp">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="ban-uong-cafe-go-dep.html" data-handle="ban-uong-cafe-go-dep" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="ban-uong-cafe-go-dep.html" title="Bàn gỗ đẹp">Bàn gỗ đẹp</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">2.345.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665226" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593263" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>
-																		
-				      
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="ban-uong-cafe-go-dai.html" title="Bàn gỗ dài">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood30931881911zoom.jpg?v=1493897710107" alt="Bàn gỗ dài">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="ban-uong-cafe-go-dai.html" data-handle="ban-uong-cafe-go-dai" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="ban-uong-cafe-go-dai.html" title="Bàn gỗ dài">Bàn gỗ dài</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">1.890.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665225" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593262" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>
-																		
-				      
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="ban-uong-cafe-dai.html" title="Bàn dài UYG">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/solide41335106321zoom.jpg?v=1493897709337" alt="Bàn dài UYG">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="ban-uong-cafe-dai.html" data-handle="ban-uong-cafe-dai" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="ban-uong-cafe-dai.html" title="Bàn dài UYG">Bàn dài UYG</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">5.730.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665224" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593261" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>
-																		
-				      
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="sofa-don-sfd01.html" title="Sofa đơn SFD01">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/pp14258500321zoom.jpg?v=1493897708580" alt="Sofa đơn SFD01">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="sofa-don-sfd01.html" data-handle="sofa-don-sfd01" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="sofa-don-sfd01.html" title="Sofa đơn SFD01">Sofa đơn SFD01</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">4.500.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665223" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593260" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>
-																		
-				      
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="ghe-sopha-don-dep.html" title="Ghế sopha đơn đẹp">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/pp14284500321zoom.jpg?v=1493897707700" alt="Ghế sopha đơn đẹp">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="ghe-sopha-don-dep.html" data-handle="ghe-sopha-don-dep" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="ghe-sopha-don-dep.html" title="Ghế sopha đơn đẹp">Ghế sopha đơn đẹp</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">9.800.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665222" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593259" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>
-																		
-				      
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="sofa-don-sfd16.html" title="Sofa đơn SFD16">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/pp14292500321zoom.jpg?v=1493897706637" alt="Sofa đơn SFD16">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="sofa-don-sfd16.html" data-handle="sofa-don-sfd16" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="sofa-don-sfd16.html" title="Sofa đơn SFD16">Sofa đơn SFD16</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">4.568.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665221" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593258" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>
-																		
-											
-			</div><!-- /.products -->
-		</div>
-	</div>
-</div>
-
-<script>
-	$('.slick_col1').slick({
-		autoplay: true,
-		autoplaySpeed: 5000,
-		dots: false,
-		arrows: false,
-		speed: 300,
-		rows: 1,
-		loop: false,
-		infinite:false,
-		slidesToShow: 4,
-		slidesToScroll: 2,
-		responsive: [
-			{
-				breakpoint: 1200,
-				settings: {
-					slidesToShow: 4,
-					slidesToScroll:2
-				}
-			},
-			{
-				breakpoint: 1024,
-				settings: {
-					slidesToShow: 3,
-					slidesToScroll: 2
-				}
-			},
-			{
-				breakpoint: 991,
-				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 1
-				}
-			},
-			{
-				breakpoint: 767,
-				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 1
-				}
-			}
-		]
-	});
-</script>
-</section>
-
-
-
-
-
-<section class="awe-section-6">	
-	<div class="section section-deal products-view-grid">	
-	<div class="container">
-		<div class="section-title a-center">
-			<h2 >Bàn phòng khách</h2>
-			
-			<p>Những mẫu bàn phòng khách mới nhất 2018</p>
-		</div>
-		<div class="section-content">	
-			
-			<div class="products products-view-grid  slick_col2"  data-md-items="4" data-sm-items="3" data-xs-items="2" data-margin="30" data-nav="true">
-				
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="ke-sach-go-4-tang-40.html" title="Kệ sách gỗ 4 tầng 40">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/solide40632406321zoom.jpg?v=1493897737670" alt="Kệ sách gỗ 4 tầng 40">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="ke-sach-go-4-tang-40.html" data-handle="ke-sach-go-4-tang-40" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="ke-sach-go-4-tang-40.html" title="Kệ sách gỗ 4 tầng 40">Kệ sách gỗ 4 tầng 40</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">510.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665258" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593296" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="gia-sach-treo-hurakids-2130-002.html" title="Giá sách treo Hurakids 2130-002">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/alexdaisy09478143221zoom.jpg?v=1493897736657" alt="Giá sách treo Hurakids 2130-002">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="gia-sach-treo-hurakids-2130-002.html" data-handle="gia-sach-treo-hurakids-2130-002" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="gia-sach-treo-hurakids-2130-002.html" title="Giá sách treo Hurakids 2130-002">Giá sách treo Hurakids 2130-002</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">598.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665257" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593295" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-vach-kinh-nv-86664.html" title="Đèn vách kính NV 86664">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/lightliving68071172021zoom.jpg?v=1493897735920" alt="Đèn vách kính NV 86664">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-vach-kinh-nv-86664.html" data-handle="den-vach-kinh-nv-86664" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-vach-kinh-nv-86664.html" title="Đèn vách kính NV 86664">Đèn vách kính NV 86664</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">987.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665256" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593294" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-cao-cap-yui.html" title="Đèn trang trí vách cao cấp YUI">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/re.jpg?v=1493897734663" alt="Đèn trang trí vách cao cấp YUI">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-yui.html" data-handle="den-trang-tri-vach-cao-cap-yui" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-cao-cap-yui.html" title="Đèn trang trí vách cao cấp YUI">Đèn trang trí vách cao cấp YUI</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">809.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665255" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593293" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-tru-cong-netviet-nvt-1.html" title="Đèn trang trí trụ cổng Netviet NVT">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/lightliving01770025321zoom12d7.jpg?v=1493897733727" alt="Đèn trang trí trụ cổng Netviet NVT">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-tru-cong-netviet-nvt-1.html" data-handle="den-trang-tri-tru-cong-netviet-nvt-1" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-tru-cong-netviet-nvt-1.html" title="Đèn trang trí trụ cổng Netviet NVT">Đèn trang trí trụ cổng Netviet NVT</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">764.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665254" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593292" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="khay-dung-xa-phong.html" title="Khay đựng xà phòng">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/krm12132814011zoom.jpg?v=1493897721863" alt="Khay đựng xà phòng">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="khay-dung-xa-phong.html" data-handle="khay-dung-xa-phong" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="khay-dung-xa-phong.html" title="Khay đựng xà phòng">Khay đựng xà phòng</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">102.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665238" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593275" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="thanh-dung-xa-phong.html" title="Thanh đựng xà phòng">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/krm1286905491zoom.jpg?v=1493897720757" alt="Thanh đựng xà phòng">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="thanh-dung-xa-phong.html" data-handle="thanh-dung-xa-phong" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="thanh-dung-xa-phong.html" title="Thanh đựng xà phòng">Thanh đựng xà phòng</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">82.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665237" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593274" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="thanh-sat-tfu.html" title="Thanh sắt TFU">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/krm1260145491zoom.jpg?v=1493897719623" alt="Thanh sắt TFU">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="thanh-sat-tfu.html" data-handle="thanh-sat-tfu" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="thanh-sat-tfu.html" title="Thanh sắt TFU">Thanh sắt TFU</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">98.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665236" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593273" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-											
-			</div><!-- /.products -->
-		</div>
-	</div>
-</div>
-<script>
-	$('.slick_col2').slick({
-		autoplay: true,
-		autoplaySpeed: 5000,
-		dots: false,
-		arrows: false,
-		speed: 300,
-		rows: 1,
-		loop: false,
-		infinite:false,
-		slidesToShow: 4,
-		slidesToScroll: 2,
-		responsive: [
-			{
-				breakpoint: 1200,
-				settings: {
-					slidesToShow: 4,
-					slidesToScroll:2
-				}
-			},
-			{
-				breakpoint: 1024,
-				settings: {
-					slidesToShow: 3,
-					slidesToScroll: 2
-				}
-			},
-			{
-				breakpoint: 991,
-				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 1
-				}
-			},
-			{
-				breakpoint: 767,
-				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 1
-				}
-			}
-		]
-	});
-</script>
-</section>
-
-
-
-
-
-<section class="awe-section-7">	
-	<div class="section section-deal products-view-grid">	
-	<div class="container">
-		<div class="section-title a-center">
-			<h2 >Giường ngủ</h2>
-			
-			<p>Những mẫu giường mới nhất 2018</p>
-		</div>
-		<div class="section-content">	
-			
-			<div class="products products-view-grid  slick_col3"  data-md-items="4" data-sm-items="3" data-xs-items="2" data-margin="30" data-nav="true">
-				
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-hug-90.html" title="Tủ HUG 90">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/indie07540920321zoom.jpg?v=1493897749447" alt="Tủ HUG 90">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-hug-90.html" data-handle="tu-hug-90" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-hug-90.html" title="Tủ HUG 90">Tủ HUG 90</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">12.000.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665273" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593311" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>															
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-bnd-09.html" title="Tủ BND 09">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood87167474911zoom.jpg?v=1493897748617" alt="Tủ BND 09">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-bnd-09.html" data-handle="tu-bnd-09" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-bnd-09.html" title="Tủ BND 09">Tủ BND 09</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">8.990.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665272" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593310" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>															
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-qtr-01.html" title="Tủ QTR 01">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile31702024221zoom.jpg?v=1493897747867" alt="Tủ QTR 01">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-qtr-01.html" data-handle="tu-qtr-01" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-qtr-01.html" title="Tủ QTR 01">Tủ QTR 01</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">5.400.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665271" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593309" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>															
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-ao-hut.html" title="Tủ áo HUT">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30874024221zoom.jpg?v=1493897747000" alt="Tủ áo HUT">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-hut.html" data-handle="tu-ao-hut" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-ao-hut.html" title="Tủ áo HUT">Tủ áo HUT</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">8.000.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665270" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593308" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>															
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-ao-b1238.html" title="Tủ áo B1238">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30845024221zoom.jpg?v=1493897746203" alt="Tủ áo B1238">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-b1238.html" data-handle="tu-ao-b1238" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-ao-b1238.html" title="Tủ áo B1238">Tủ áo B1238</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">5.100.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665269" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593307" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>															
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-ao-bellasofa-b1239.html" title="Tủ Áo Bellasofa B1239">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30816024221zoom.jpg?v=1493897745420" alt="Tủ Áo Bellasofa B1239">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-bellasofa-b1239.html" data-handle="tu-ao-bellasofa-b1239" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-ao-bellasofa-b1239.html" title="Tủ Áo Bellasofa B1239">Tủ Áo Bellasofa B1239</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">3.790.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665268" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593306" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>															
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-ao-b1241k.html" title="Tủ áo B1241K">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/alexdaisy18858943221zoom.jpg?v=1493897744660" alt="Tủ áo B1241K">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-b1241k.html" data-handle="tu-ao-b1241k" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-ao-b1241k.html" title="Tủ áo B1241K">Tủ áo B1241K</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">5.400.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665267" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593305" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>															
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="tu-quan-ao-big-one-vietnam-wvr-1855l.html" title="Tủ quần áo BIG ONE VIETNAM WVR-1855L">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/alexdaisy04517243221zoom.jpg?v=1493897743913" alt="Tủ quần áo BIG ONE VIETNAM WVR-1855L">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="tu-quan-ao-big-one-vietnam-wvr-1855l.html" data-handle="tu-quan-ao-big-one-vietnam-wvr-1855l" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="tu-quan-ao-big-one-vietnam-wvr-1855l.html" title="Tủ quần áo BIG ONE VIETNAM WVR-1855L">Tủ quần áo BIG ONE VIETNAM WVR-1855L</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">4.000.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665266" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593304" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>															
-											
-			</div><!-- /.products -->
-		</div>
-	</div>
-</div>
-
-<script>
-	$('.slick_col3').slick({
-		autoplay: true,
-		autoplaySpeed: 5000,
-		dots: false,
-		arrows: false,
-		speed: 300,
-		rows: 1,
-		loop: false,
-		infinite:false,
-		slidesToShow: 4,
-		slidesToScroll: 2,
-		responsive: [
-			{
-				breakpoint: 1200,
-				settings: {
-					slidesToShow: 4,
-					slidesToScroll:2
-				}
-			},
-			{
-				breakpoint: 1024,
-				settings: {
-					slidesToShow: 3,
-					slidesToScroll: 2
-				}
-			},
-			{
-				breakpoint: 991,
-				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 1
-				}
-			},
-			{
-				breakpoint: 767,
-				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 1
-				}
-			}
-		]
-	});
-</script>
-</section>
-
-
-
-
-
-<section class="awe-section-8">	
-	<div class="section section-deal products-view-grid">	
-	<div class="container">
-		<div class="section-title a-center">
-			<h2 >Rèm</h2>
-			
-			<p>Những mẫu giường mới nhất 2018</p>
-		</div>
-		<div class="section-content">	
-			
-			<div class="products products-view-grid  slick_col4"  data-md-items="4" data-sm-items="3" data-xs-items="2" data-margin="30" data-nav="true">
-				
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/39.jpg?v=1493897732810" alt="Đèn trang trí vách Netviet NV 016">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-016.html" data-handle="den-trang-tri-vach-netviet-nv-016" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">Đèn trang trí vách Netviet NV 016</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">690.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665253" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593291" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/37.jpg?v=1493897732273" alt="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" data-handle="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">970.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665252" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593289" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/82dd513b5ca0b4e058c5f74ac5700b.jpg?v=1493897731777" alt="Đèn trang trí vách cao cấp NETVIET NV 8825">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" data-handle="den-trang-tri-vach-cao-cap-netviet-nv-8825" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">Đèn trang trí vách cao cấp NETVIET NV 8825</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">780.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665251" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593288" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/9.jpg?v=1493897731053" alt="Đèn trang trí vách Netviet NV 8205/1">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-8205-1.html" data-handle="den-trang-tri-vach-netviet-nv-8205-1" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">Đèn trang trí vách Netviet NV 8205/1</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">590.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665250" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593287" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/6.jpg?v=1493897730310" alt="Đèn tường Composite An Phước B948">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-tuong-composite-an-phuoc-b948.html" data-handle="den-tuong-composite-an-phuoc-b948" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">Đèn tường Composite An Phước B948</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">10.000.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665249" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593286" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/4.jpg?v=1493897729767" alt="Đèn treo pha lê green light">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="den-treo-pha-le-green-light.html" data-handle="den-treo-pha-le-green-light" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">Đèn treo pha lê green light</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">150.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665248" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593285" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="giuong-bmy.html" title="Giường BMY">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood88591626222zoomf5a07d81.jpg?v=1493897729220" alt="Giường BMY">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="giuong-bmy.html" data-handle="giuong-bmy" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="giuong-bmy.html" title="Giường BMY">Giường BMY</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">14.490.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665247" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input class="hidden" type="hidden" name="variantId" value="10806291" />
-				<button class="btn btn-white btn-cart btn  left-to"   title="Chọn sản phẩm"  type="button" onclick="window.location.href='giuong-bmy.html'" >
-					<i class="fas fa-plus"></i> Tùy chọn
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-				         
-				<div class="item">
-					
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-<div class="product-box">	
-	<div class="product-thumbnail">		
-		
-		<a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">
-			<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/tulip89482122121zoom.jpg?v=1493897728470" alt="Giường ngủ GN 016">
-		</a>
-		<div class="product-action clearfix">
-			
-
-					
-					<div class="action-item">
-
-						<a data-toggle="tooltip" title="Xem nhanh" href="giuong-ngu-gn-016.html" data-handle="giuong-ngu-gn-016" class="btn-square btn_view btn  right-to quick-view">
-							<i class="fab fa-searchengin"></i>
-						</a>
-
-					</div>
-					
-
-		</div>
-	</div>
-
-	<div class="product-info a-center">
-
-		<h3 class="product-name"><a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">Giường ngủ GN 016</a></h3>
-
-
-		
-		
-		<div class="price-box clearfix">
-
-			<div class="special-price">
-				<span class="price product-price">9.800.000₫</span>
-			</div>											
-		</div>
-		
-		
-	</div>
-	<div>
-		<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" class="variants a-center form-nut-grid" data-id="product-actions-6665246" enctype="multipart/form-data">
-
-			<div class="action-item">
-				
-				<input type="hidden" name="variantId" value="10593283" />
-				<button class="btn-white btn btn-cart  left-to add_to_cart "  title="Thêm vào giỏ hàng">
-					<i class="fas fa-plus"></i> Mua ngay
-				</button>
-				
-			</div>
-
-
-		</form>
-	</div>
-
-</div>		
-				</div>														
-											
-			</div><!-- /.products -->
-		</div>
-	</div>
-</div>
-
-<script>
-	$('.slick_col4').slick({
-		autoplay: true,
-		autoplaySpeed: 5000,
-		dots: false,
-		arrows: false,
-		speed: 300,
-		rows: 1,
-		loop: false,
-		infinite:false,
-		slidesToShow: 4,
-		slidesToScroll: 2,
-		responsive: [
-			{
-				breakpoint: 1200,
-				settings: {
-					slidesToShow: 4,
-					slidesToScroll:2
-				}
-			},
-			{
-				breakpoint: 1024,
-				settings: {
-					slidesToShow: 3,
-					slidesToScroll: 2
-				}
-			},
-			{
-				breakpoint: 991,
-				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 1
-				}
-			},
-			{
-				breakpoint: 767,
-				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 1
-				}
-			}
-		]
-	});
-</script>
-</section>
-
-
-
-
-
-<section class="awe-section-9">	
-	<div class="section section-testimonial parallax" style="background-image: url(template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/testimonialb60e.jpg?1676014753174)">
-	<div class="container">
-		<div class="testimonial  slick_tes" data-lg-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-margin="0"  data-dot="true">
-			
-			
-			
-			
-			
-			<div class="item">
-				<div class="testimonial-item a-center">
-					<img alt="Ngọc Trinh" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/100/210/557/themes/801960/assets/testimonial1.jpg?1676014753174" class="img-circle inline-block lazyload">
-					<h4 class="offset-top-20">
-						<p>
-							<label class="text-normal">Ngọc Trinh</label>
-						</p>
-
-					</h4>
-					<q class='margin-top-15'>
-						Sản phẩm tốt, thái độ phục vụ chu đáo, đây là nơi mà tôi luôn tin tưởng suốt mấy năm qua<br>Chúng tôi sẽ tiếp tục ủng hộ trong thời gian tới
-					</q>
-					<div class="star">
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-					</div>
-					<div class="line"></div>
-				</div>
-			</div>
-			
-			
-			
-			
-			
-			
-			<div class="item">
-				<div class="testimonial-item a-center">
-					<img alt="Cole Stanley" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/100/210/557/themes/801960/assets/testimonial2.jpg?1676014753174" class="img-circle inline-block lazyload">
-					<h4 class="offset-top-20">
-						<p>
-							<label class="text-normal">Cole Stanley</label>
-						</p>
-
-					</h4>
-					<q class='margin-top-15'>
-						Sản phẩm tốt, thái độ phục vụ chu đáo, đây là nơi mà tôi luôn tin tưởng suốt mấy năm qua
-					</q>
-					<div class="star">
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-					</div>
-					<div class="line"></div>
-				</div>
-			</div>
-			
-			
-			
-			
-			
-			
-			<div class="item">
-				<div class="testimonial-item a-center">
-					<img alt="Cole Stanley 2" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/100/210/557/themes/801960/assets/testimonial3.jpg?1676014753174" class="img-circle inline-block lazyload">
-					<h4 class="offset-top-20">
-						<p>
-							<label class="text-normal">Cole Stanley 2</label>
-						</p>
-
-					</h4>
-					<q class='margin-top-15'>
-						Sản phẩm tốt, thái độ phục vụ chu đáo, đây là nơi mà tôi luôn tin tưởng suốt mấy năm qua
-					</q>
-					<div class="star">
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-						<i class="fa fa-star"></i> 
-					</div>
-					<div class="line"></div>
-				</div>
-			</div>
-			
-			
-
-
-		</div>
-	</div>
-</div>
-
-<script>
-	$('.slick_tes').slick({
-		autoplay: true,
-		autoplaySpeed: 5000,
-		dots: false,
-		arrows: false,
-		speed: 300,
-		rows: 1,
-		loop: false,
-		infinite:false,
-		slidesToShow: 1,
-		slidesToScroll: 1,
-		responsive: [
-			{
-				breakpoint: 1200,
-				settings: {
-					slidesToShow: 1,
-					slidesToScroll:1
-				}
-			},
-			{
-				breakpoint: 1024,
-				settings: {
-					slidesToShow: 1,
-					slidesToScroll: 1
-				}
-			},
-			{
-				breakpoint: 991,
-				settings: {
-					slidesToShow: 1,
-					slidesToScroll: 1
-				}
-			},
-			{
-				breakpoint: 767,
-				settings: {
-					slidesToShow: 1,
-					slidesToScroll: 1
-				}
-			}
-		]
-	});
-</script>
-</section>
-
-
-
-
-
-<section class="awe-section-10">	
-	<section class="section section-news">
-	<div class="container">
-		<div class="section-title a-center">
-
-			<h2>					
-				<a href="tin-tuc.html">Tin tức</a>					
-			</h2>
-
-		</div>
-		<div class="section-content">
-			<div class="slick_blog" data-lg-items="3"  data-md-items="3" data-sm-items="3" data-xs-items="2" data-margin="30" data-nav="true">
-						
-				<div class="item">
-					<article class="blog-item">
-						<div class="blog-item-thumbnail">								
-							<a href="top-nhung-cach-phoi-mau-cho-can-phong-dep.html" class="img26">
-								
-
-								<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/grande/100/210/557/articles/blog-detail-3b2beed9-bf42-466e-a845-47c3dcbd04e7-f64c0fdd-155d-4265-b9db-a10fcce7c2ac.jpg?v=1494385364443" alt="Top những cách phối màu cho căn phòng đẹp" >
-
-								
-							</a>
-						</div>
-						<div class="blog-item-info">
-							<h3 class="blog-item-name"><a href="top-nhung-cach-phoi-mau-cho-can-phong-dep.html">Top những cách phối màu cho căn phòng đẹp</a></h3>
-							<div class="post-time">
-								<i class="fa fa-clock-o"></i>  May 10, 17 by <span class="author">Đặng Hữu Danh</span>
-
-							</div>
-							<p class="blog-item-summary margin-bottom-10">Đối với gia đình Việt, phòng bếp luôn là nơi quan trọng vì ở đó, gia đình quây quần sum...</p>
-							<a href="top-nhung-cach-phoi-mau-cho-can-phong-dep.html" class="btn btn-link">Xem thêm <i class="arrow_right"></i></a>
-						</div>
-					</article>				
-				</div>
-						
-				<div class="item">
-					<article class="blog-item">
-						<div class="blog-item-thumbnail">								
-							<a href="phoi-mau-noi-that-phong-cach-hien-dai.html" class="img26">
-								
-
-								<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/grande/100/210/557/articles/blog-03.jpg?v=1494385154030" alt="Phối màu nội thất phong cách hiện đại" >
-
-								
-							</a>
-						</div>
-						<div class="blog-item-info">
-							<h3 class="blog-item-name"><a href="phoi-mau-noi-that-phong-cach-hien-dai.html">Phối màu nội thất phong cách hiện đại</a></h3>
-							<div class="post-time">
-								<i class="fa fa-clock-o"></i>  May 06, 17 by <span class="author">Đặng Hữu Danh</span>
-
-							</div>
-							<p class="blog-item-summary margin-bottom-10">Theo kiến trúc sư Phạm Ngọc Thiên Ân, màu sắc trong nội thất được sử dụng như một loại ngôn...</p>
-							<a href="phoi-mau-noi-that-phong-cach-hien-dai.html" class="btn btn-link">Xem thêm <i class="arrow_right"></i></a>
-						</div>
-					</article>				
-				</div>
-						
-				<div class="item">
-					<article class="blog-item">
-						<div class="blog-item-thumbnail">								
-							<a href="10-cach-phoi-mau-cho-can-phong-dep.html" class="img26">
-								
-
-								<img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"  data-src="//bizweb.dktcdn.net/thumb/grande/100/210/557/articles/blog-02.jpg?v=1494385143167" alt="10 cách phối màu cho căn phòng đẹp" >
-
-								
-							</a>
-						</div>
-						<div class="blog-item-info">
-							<h3 class="blog-item-name"><a href="10-cach-phoi-mau-cho-can-phong-dep.html">10 cách phối màu cho căn phòng đẹp</a></h3>
-							<div class="post-time">
-								<i class="fa fa-clock-o"></i>  May 06, 17 by <span class="author">Đặng Hữu Danh</span>
-
-							</div>
-							<p class="blog-item-summary margin-bottom-10">Đối với gia đình Việt, phòng bếp luôn là nơi quan trọng vì ở đó, gia đình quây quần sum...</p>
-							<a href="10-cach-phoi-mau-cho-can-phong-dep.html" class="btn btn-link">Xem thêm <i class="arrow_right"></i></a>
-						</div>
-					</article>				
-				</div>
-				
-			</div>
-
-		</div>
-	</div>
-</section>
-
-<script>
-	$('.slick_blog').slick({
-		autoplay: true,
-		autoplaySpeed: 5000,
-		dots: false,
-		arrows: false,
-		speed: 300,
-		rows: 1,
-		loop: false,
-		infinite:false,
-		slidesToShow: 3,
-		slidesToScroll: 3,
-		responsive: [
-			{
-				breakpoint: 1200,
-				settings: {
-					slidesToShow: 3,
-					slidesToScroll: 3
-				}
-			},
-			{
-				breakpoint: 1024,
-				settings: {
-					slidesToShow: 3,
-					slidesToScroll: 3
-				}
-			},
-			{
-				breakpoint: 991,
-				settings: {
-					slidesToShow: 3,
-					slidesToScroll: 2
-				}
-			},
-			{
-				breakpoint: 767,
-				settings: {
-					slidesToShow: 2,
-					slidesToScroll: 2
-				}
-			}
-		]
-	});
-</script>
-</section>
-
-
-
-
-		
-
-
-
-
-
-
-
-
-
-
-
-
-<footer class="footer">		
-	<div class="site-footer">		
-		<div class="container">			
-			<div class="footer-inner padding-top-40">
-				<div class="row">
-					<div class="col-xs-12 col-sm-6 col-lg-3">
-						<div class="footer-widget">
-							<h3><span>Về cửa hàng</span></h3>
-							<ul class="list-menu list-showroom">								
-								<li class="about-content">
-									<p style="padding-left: 0;">
-										Cửa hàng nội thất Furniture chuyên cung cấp tất cả các mặt hàng nội thất cao cấp trong nước và quốc tế
-									</p>
-								</li>
-								<li class="clearfix">Địa chỉ: Ladeco Building, 266 Doi Can Street, Hà Nội, </li>
-								<li class="clearfix">Email: <a href="cdn-cgi/l/email-protection.html#5b282e2b2b34292f1b283a2b34752d35"><span class="__cf_email__" data-cfemail="d3a0a6a3a3bca1a793a0b2a3bcfda5bd">[email&#160;protected]</span></a></li>
-								<li class="clearfix">Điện thoại: <a href="tel:19006750">1900 6750</a></li>
-
-							</ul>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-6 col-lg-3">
-						<div class="footer-widget">
-							<h3><span>Khuyến mãi</span></h3>
-							<ul class="list-menu list-right">
-								
-								<li><a href="index.html">Trang chủ</a></li>
-								
-								<li><a href="collections/all.html">Sản phẩm</a></li>
-								
-								<li><a href="tin-tuc.html">Blog</a></li>
-								
-								<li><a href="gioi-thieu.html">Giới thiệu</a></li>
-								
-								<li><a href="lien-he.html">Liên hệ</a></li>
-								
-							</ul>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-6 col-lg-3">
-						<div class="footer-widget">
-							<h3><span>Chính sách</span></h3>
-							<ul class="list-menu list-right">
-								
-								<li><a href="index.html">Trang chủ</a></li>
-								
-								<li><a href="collections/all.html">Sản phẩm</a></li>
-								
-								<li><a href="tin-tuc.html">Blog</a></li>
-								
-								<li><a href="gioi-thieu.html">Giới thiệu</a></li>
-								
-								<li><a href="lien-he.html">Liên hệ</a></li>
-								
-							</ul>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-6 col-lg-3">
-						<div class="footer-widget">
-							<h3><span>TOP HOT</span></h3>           
-							<ul class="list-menu list-right">
-								
-								<li><a href="index.html">Trang chủ</a></li>
-								
-								<li><a href="collections/all.html">Sản phẩm</a></li>
-								
-								<li><a href="tin-tuc.html">Blog</a></li>
-								
-								<li><a href="gioi-thieu.html">Giới thiệu</a></li>
-								
-								<li><a href="lien-he.html">Liên hệ</a></li>
-								
-							</ul>
-						</div>
-
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>	
-	<div class="copyright clearfix">
-		<div class="container">
-			<div>
-				<div class="inner clearfix">
-					<div class="row">
-						<div class="col-xs-12 col-md-6 a-left">
-							<span>© Bản quyền thuộc về <b>DQDT</b> <span class="fot-line">|</span> Cung cấp bởi 
-							
-
-							<a href="https://www.sapo.vn/?utm_campaign=cpn:kho_theme-plm:footer&amp;utm_source=Tu_nhien&amp;utm_medium=referral&amp;utm_content=fm:text_link-km:-sz:&amp;utm_term=&amp;campaign=kho_theme-sapo" rel="nofollow" title="Sapo" target="_blank">Sapo</a>
-
-							
-							</span>
-							
-						</div>
-						<div class="col-xs-12 col-md-6 a-left">
-							<div class="footer-menu">
-								<ul class="inline-list social-icons">
-	
-	
-	<li>
-		<a class="icon-fallback-text" href="#">
-			<span class="fa fa-facebook" aria-hidden="true"></span>
-			<span class="fallback-text">Facebook</span>
-		</a>
-	</li>
-	
-	
-	
-	<li>
-		<a class="icon-fallback-text" href="#">
-			<span class="fa fa-pinterest" aria-hidden="true"></span>
-			<span class="fallback-text">Pinterest</span>
-		</a>
-	</li>
-	
-	
-	<li>
-		<a class="icon-fallback-text" href="#" rel="publisher">
-			<span class="fa fa-google-plus" aria-hidden="true"></span>
-			<span class="fallback-text">Google</span>
-		</a>
-	</li>
-	
-	
-	<li>
-		<a class="icon-fallback-text" href="#">
-			<span class="fa fa-instagram" aria-hidden="true"></span>
-			<span class="fallback-text">Instagram</span>
-		</a>
-	</li>
-	
-	
-	
-	
-	
-	
-</ul>
-							</div>
-						</div>
-					</div>
-					
-					<div class="back-to-top"><i class="fa  fa-angle-up"></i></div>
-					
-				</div>
-			</div>
-		</div>
-	</div>
-
-</footer>
-
-		<!-- Bizweb javascript -->
-		<script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/option-selectorsb60e.js?1676014753174" type="text/javascript"></script>
-		<script src="template/bizweb.dktcdn.net/assets/themes_support/api.jquery.js" type="text/javascript"></script> 
-
-		
-		<!-- Plugin JS -->
-		<script src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/owl.carousel.minb60e.js?1676014753174" type="text/javascript"></script>			
-		<script src="../maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
-
-		
-		<!-- Add to cart -->	
-		<div class="ajax-load"> 
-	<span class="loading-icon">
-		<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-			 width="24px" height="30px" viewBox="0 0 24 30" style="enable-background:new 0 0 50 50;" xml:space="preserve">
-			<rect x="0" y="10" width="4" height="10" fill="#333" opacity="0.2">
-				<animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="height" attributeType="XML" values="10; 20; 10" begin="0s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="y" attributeType="XML" values="10; 5; 10" begin="0s" dur="0.6s" repeatCount="indefinite" />
-			</rect>
-			<rect x="8" y="10" width="4" height="10" fill="#333"  opacity="0.2">
-				<animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0.15s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="height" attributeType="XML" values="10; 20; 10" begin="0.15s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="y" attributeType="XML" values="10; 5; 10" begin="0.15s" dur="0.6s" repeatCount="indefinite" />
-			</rect>
-			<rect x="16" y="10" width="4" height="10" fill="#333"  opacity="0.2">
-				<animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0.3s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="height" attributeType="XML" values="10; 20; 10" begin="0.3s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="y" attributeType="XML" values="10; 5; 10" begin="0.3s" dur="0.6s" repeatCount="indefinite" />
-			</rect>
-		</svg>
-	</span>
-</div>
-
-<div class="loading awe-popup">
-	<div class="overlay"></div>
-	<div class="loader" title="2">
-		<svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-			 width="24px" height="30px" viewBox="0 0 24 30" style="enable-background:new 0 0 50 50;" xml:space="preserve">
-			<rect x="0" y="10" width="4" height="10" fill="#333" opacity="0.2">
-				<animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="height" attributeType="XML" values="10; 20; 10" begin="0s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="y" attributeType="XML" values="10; 5; 10" begin="0s" dur="0.6s" repeatCount="indefinite" />
-			</rect>
-			<rect x="8" y="10" width="4" height="10" fill="#333"  opacity="0.2">
-				<animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0.15s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="height" attributeType="XML" values="10; 20; 10" begin="0.15s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="y" attributeType="XML" values="10; 5; 10" begin="0.15s" dur="0.6s" repeatCount="indefinite" />
-			</rect>
-			<rect x="16" y="10" width="4" height="10" fill="#333"  opacity="0.2">
-				<animate attributeName="opacity" attributeType="XML" values="0.2; 1; .2" begin="0.3s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="height" attributeType="XML" values="10; 20; 10" begin="0.3s" dur="0.6s" repeatCount="indefinite" />
-				<animate attributeName="y" attributeType="XML" values="10; 5; 10" begin="0.3s" dur="0.6s" repeatCount="indefinite" />
-			</rect>
-		</svg>
-	</div>
-
-</div>
-
-<div class="addcart-popup product-popup awe-popup">
-	<div class="overlay no-background"></div>
-	<div class="content">
-		<div class="row row-noGutter">
-			<div class="col-xl-6 col-xs-12">
-				<div class="btn btn-full btn-primary a-left popup-title"><i class="fa fa-check"></i>Thêm vào giỏ hàng thành công
-				</div>
-				<a href="javascript:void(0)" class="close-window close-popup"><i class="fa fa-close"></i></a>
-				<div class="info clearfix">
-					<div class="product-image margin-top-5">
-						<img alt="popup" src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/logob60e.png?1676014753174" style="max-width:150px; height:auto"/>
-					</div>
-					<div class="product-info">
-						<p class="product-name"></p>
-						<p class="quantity color-main"><span>Số lượng: </span></p>
-						<p class="total-money color-main"><span>Tổng tiền: </span></p>
-
-					</div>
-					<div class="actions">    
-						<button class="btn  btn-primary  margin-top-5 btn-continue">Tiếp tục mua hàng</button>        
-						<button class="btn btn-gray margin-top-5" onclick="window.location='cart.html'">Kiểm tra giỏ hàng</button>
-					</div> 
-				</div>
-
-			</div>			
-		</div>
-
-	</div>    
-</div>
-<div class="error-popup awe-popup">
-	<div class="overlay no-background"></div>
-	<div class="popup-inner content">
-		<div class="error-message"></div>
-	</div>
-</div>
-		<script>
-	Bizweb.updateCartFromForm = function(cart, cart_summary_id, cart_count_id) {
-		if ((typeof cart_summary_id) === 'string') {
-			var cart_summary = jQuery(cart_summary_id);
-			if (cart_summary.length) {
-				// Start from scratch.
-				cart_summary.empty();
-				// Pull it all out.        
-				jQuery.each(cart, function(key, value) {
-					if (key === 'items') {
-
-						var table = jQuery(cart_summary_id);           
-						if (value.length) {   
-							jQuery('<ul class="list-item-cart"></ul>').appendTo(table);
-							jQuery.each(value, function(i, item) {	
-								var buttonQty = "";
-								if(item.quantity == '1'){
-									buttonQty = 'disabled';
-								}else{
-									buttonQty = '';
-								}
-								var link_img0 = Bizweb.resizeImage(item.image, 'compact');
-								if(link_img0=="null" || link_img0 =='' || link_img0 ==null){
-									link_img0 = 'template/bizweb.dktcdn.net/thumb/large/assets/themes_support/noimage.gif';
-								}
-								jQuery('<li class="item productid-' + item.variant_id +'"><div class="border_list"><a class="product-image" href="' + item.url + '" title="' + item.name + '">'
-									   + '<img alt="'+  item.name  + '" src="' + link_img0 +  '"width="'+ '100' +'"\></a>'
-									   + '<div class="detail-item"><div class="product-details">'
-									   + '<p class="product-name"> <a href="' + item.url + '" title="' + item.name + '">' + item.name + '</a></p></div>'
-									   + '<div class="product-details-bottom"><span class="price">' + Bizweb.formatMoney(item.price, "amount_no_decimals_with_comma_separator₫") + '</span><a href="javascript:;" data-id="'+ item.variant_id +'" title="Xóa" class="remove-item-cart fa fa-times">&nbsp;</a>'
-									   + '<div class="quantity-select qty_drop_cart"><input class="variantID" type="hidden" name="variantId" value="'+ item.variant_id +'"><button onClick="var result = document.getElementById(\'qty'+ item.variant_id +'\'); var qty'+ item.variant_id +' = result.value; if( !isNaN( qty'+ item.variant_id +' ) &amp;&amp; qty'+ item.variant_id +' &gt; 1 ) result.value--;return false;" class="btn_reduced reduced items-count btn-minus" ' + buttonQty + ' type="button">–</button><input type="text" maxlength="12" min="0" class="input-text number-sidebar qty'+ item.variant_id +'" id="qty'+ item.variant_id +'" name="Lines" id="updates_'+ item.variant_id +'" size="4" value="'+ item.quantity +'"><button onClick="var result = document.getElementById(\'qty'+ item.variant_id +'\'); var qty'+ item.variant_id +' = result.value; if( !isNaN( qty'+ item.variant_id +' )) result.value++;return false;" class="btn_increase increase items-count btn-plus" type="button">+</button></div></div></div></li>').appendTo(table.children('.list-item-cart'));
-							}); 
-							jQuery('<div class="pd"><div class="top-subtotal">Tổng cộng: <span class="price">' + Bizweb.formatMoney(cart.total_price, "amount_no_decimals_with_comma_separator₫") + '</span></div></div>').appendTo(table);
-							jQuery('<div class="pd right_ct"><a href="/cart" class="btn btn-primary"><span>Giỏ hàng</span></a><a href="/checkout" class="btn btn-white"><span>Thanh toán</span></a></div>').appendTo(table);
-						}
-						else {
-							jQuery('<div class="no-item"><p>Không có sản phẩm nào trong giỏ hàng.</p></div>').appendTo(table);
-
-						}
-					}
-				});
-			}
-		}
-		updateCartDesc(cart);
-		var numInput = document.querySelector('#cart-sidebar input.input-text');
-		if (numInput != null){
-			// Listen for input event on numInput.
-			numInput.addEventListener('input', function(){
-				// Let's match only digits.
-				var num = this.value.match(/^\d+$/);
-				if (num == 0) {
-					// If we have no match, value will be empty.
-					this.value = 1;
-				}
-				if (num === null) {
-					// If we have no match, value will be empty.
-					this.value = "";
-				}
-			}, false)
-		}
-	}
-
-	
-	Bizweb.updateCartPageForm = function(cart, cart_summary_id, cart_count_id) {
-	if ((typeof cart_summary_id) === 'string') {
-		var cart_summary = jQuery(cart_summary_id);
-		if (cart_summary.length) {
-			// Start from scratch.
-			cart_summary.empty();
-			// Pull it all out.        
-			jQuery.each(cart, function(key, value) {
-				if (key === 'items') {
-					var table = jQuery(cart_summary_id);           
-					if (value.length) {  
-
-						var pageCart = '<div class="cart page_cart hidden-xs">'
-						+ '<form action="/cart" method="post" novalidate class="margin-bottom-0"><div class="bg-scroll"><div class="cart-thead">'
-						+ '<div style="width: 19%; ">Sản phẩm</div><div style="width: 28%;padding-left: 5px;"><span class="nobr">Thông tin sản phẩm</span></div><div style="width: 17%" class="a-center"><span class="nobr">Đơn giá</span></div><div style="width: 18%" class="a-center">Số lượng</div><div style="width: 13%;" class="a-center">Thành tiền</div><div style="width: 5%" class="a-center">Xóa</div></div>'
-						+ '<div class="cart-tbody"></div></div></form></div>'; 
-						var pageCartCheckout = '<div class="cart-collaterals cart_submit row"><div class="totals col-sm-12 col-md-12 col-xs-12"><div class="totals"><div class="inner">'
-						+ '<table class="table shopping-cart-table-total margin-bottom-0" id="shopping-cart-totals-table"><colgroup><col><col></colgroup>'
-						+ '<tfoot><tr></tr></tfoot></table>'
-						+ '<ul class="checkout"><li class="clearfix"><div class="inline-block"><span>Tổng tiền:</span> <strong><span class="totals_price price">' + Bizweb.formatMoney(cart.total_price, "amount_no_decimals_with_comma_separator₫") + '</span></strong></div><button class="btn btn-primary button btn-proceed-checkout f-right" title="Tiến hành thanh toán" type="button" onclick="window.location.href=\'/checkout\'"><span style=" text-transform: initial; ">Tiến hành đặt hàng</span></button><button class="btn btn-gray margin-right-15 f-right" title="Tiếp tục mua hàng" type="button" onclick="window.location.href=\'/collections/all\'"><span style=" text-transform: initial; ">Tiếp tục mua hàng</span></button></li>'
-						+ '</ul></div></div></div></div>';
-						jQuery(pageCart).appendTo(table);
-						jQuery.each(value, function(i, item) {
-							var buttonQty = "";
-							if(item.quantity == '1'){
-								buttonQty = 'disabled';
-							}else{
-								buttonQty = '';
-							}
-							var link_img1 = Bizweb.resizeImage(item.image, 'compact');
-							if(link_img1=="null" || link_img1 =='' || link_img1 ==null){
-								link_img1 = 'template/bizweb.dktcdn.net/thumb/large/assets/themes_support/noimage.gif';
-							}
-							if(item.price == 0){
-								var price = "Liên hệ";
-								var price2="Liên hệ";
-								var hidden = "hidden";
-							}else{
-								var hidden = "";
-								var price = Bizweb.formatMoney(item.price, "amount_no_decimals_with_comma_separator₫");
-								var price2 =Bizweb.formatMoney(item.price*item.quantity, "amount_no_decimals_with_comma_separator₫");
-							}
-							var pageCartItem = '<div class="item-cart productid-' + item.variant_id +'"><div style="width: 19%" class="image"><a class="product-image" title="' + item.name + '" href="' + item.url + '"><img width="120" height="auto" alt="' + item.name + '" src="' + link_img1 +  '"></a></div>'
-							+ '<div style="width: 28%;align-items: flex-start;" class="a-center"><h2 class="product-name"> <a href="' + item.url + '">' + item.title + '</a><span class="variant-title" style="color: red;">(' + item.variant_title + ')</span> </h2><div style="height: 30px;position: relative;width: 78px;padding: 10px 0; border: none;"></div></div><div style="width: 17%" class="a-center"><span class="item-price"> <span class="price">' + price + '</span></span></div>'
-
-							+ '<div style="width: 18%" class="a-center"><div class="input_qty_pr relative '+hidden+'">'
-							+ '<input class="variantID" type="hidden" name="variantId" value="'+ item.variant_id +'">'
-							+ '<button onClick="var result = this.nextSibling; var qtyItem'+ item.variant_id +' = result.value; if( !isNaN( qtyItem'+ item.variant_id +' ) &amp;&amp; qtyItem'+ item.variant_id +' &gt; 1 ) result.value--;return false;" ' + buttonQty + ' class="reduced_pop items-count btn-minus" type="button">–</button>'
-							+ '<input onchange="if(this.value == 0)this.value=1;" onkeypress="if ( isNaN(this.value + String.fromCharCode(event.keyCode) )) return false;" type="text" maxlength="12" min="0" class="input-text number-sidebar input_pop input_pop qtyItem'+ item.variant_id +'" data-id="qtyItem'+ item.variant_id +'" name="Lines" data-id="updates_'+ item.variant_id +'" size="4" value="'+ item.quantity +'">'
-							+ '<button onClick="var result = this.previousSibling; var qtyItem'+ item.variant_id +' = result.value; if( !isNaN( qtyItem'+ item.variant_id +' )) result.value++;return false;" class="increase_pop items-count btn-plus" type="button">+</button>'
-							+ '</div></div>'
-							
-							+ '<div style="width: 13%;" class="a-center"><span class="cart-price"> <span class="price">'+ price2 +'</span> </span></div>'
-							+ '<div style="width: 5%" class="a-center"><a class="button remove-item remove-item-cart" title="Xóa" href="javascript:;" data-id="'+ item.variant_id +'"><span><i class="fa fa-times"></i></span></a></div>'
-							+ '</div>';
-							jQuery(pageCartItem).appendTo(table.find('.cart-tbody'));
-							if(item.variant_title == 'Default Title'){
-								$('.variant-title').hide();
-							}
-						}); 
-						jQuery(pageCartCheckout).appendTo(table.children('.cart'));
-					}else {
-						jQuery('<p class="hidden-xs-down margin-top-50">Không có sản phẩm nào trong giỏ hàng. Quay lại <a href="/" >cửa hàng</a> để tiếp tục mua sắm.</p>').appendTo(table); 
-						jQuery('.cart_desktop_page').css('min-height', 'auto');
-					}
-				}
-			});
-		}
-	}
-	updateCartDesc(cart);
-	jQuery('#wait').hide();
-}
-	 
-	
-	Bizweb.updateCartPopupForm = function(cart, cart_summary_id, cart_count_id) {
-
-		if ((typeof cart_summary_id) === 'string') {
-			var cart_summary = jQuery(cart_summary_id);
-			if (cart_summary.length) {
-				// Start from scratch.
-				cart_summary.empty();
-				// Pull it all out.        
-				jQuery.each(cart, function(key, value) {
-					if (key === 'items') {
-						var table = jQuery(cart_summary_id);           
-						if (value.length) { 
-							jQuery.each(value, function(i, item) {
-								var src = item.image;
-								if(src == null){
-									src = "template/bizweb.dktcdn.net/thumb/large/assets/themes_support/noimage.gif";
-								}
-								var buttonQty = "";
-								if(item.quantity == '1'){
-									buttonQty = 'disabled';
-								}else{
-									buttonQty = '';
-								}
-								var pageCartItem = '<div class="item-popup productid-' + item.variant_id +'"><div style="width: 55%;" class="text-left"><div class="item-image">'
-								+ '<a class="product-image" href="' + item.url + '" title="' + item.name + '"><img alt="'+  item.name  + '" src="' + src +  '"width="'+ '80' +'"\></a>'
-								+ '</div><div class="item-info"><p class="item-name"><a href="' + item.url + '" title="' + item.name + '">' + item.title + '</a></p>'
-								+ '<p class="variant-title-popup">' + item.variant_title + '</span>'
-								+ '<p class="item-remove"><a href="javascript:;" class="remove-item-cart" title="Xóa" data-id="'+ item.variant_id +'"><i class="fa fa-times"></i> Bỏ sản phẩm</a></p><p class="addpass" style="color:#fff;">'+ item.variant_id +'</p></div></div>'
-								+ '<div style="width: 15%;" class="text-center"><div class="item-price"><span class="price">' + Bizweb.formatMoney(item.price, "amount_no_decimals_with_comma_separator₫") + '</span>'
-								+ '</div></div><div style="width: 15%;" class="text-center"><input class="variantID" type="hidden" name="variantId" value="'+ item.variant_id +'">'
-								+ '<button onClick="var result = document.getElementById(\'qtyItem'+ item.variant_id +'\'); var qtyItem'+ item.variant_id +' = result.value; if( !isNaN( qtyItem'+ item.variant_id +' ) &amp;&amp; qtyItem'+ item.variant_id +' &gt; 1 ) result.value--;return false;" ' + buttonQty + ' class="reduced items-count btn-minus" type="button">–</button>'
-								+ '<input type="text" maxlength="12" min="0" class="input-text number-sidebar qtyItem'+ item.variant_id +'" id="qtyItem'+ item.variant_id +'" name="Lines" id="updates_'+ item.variant_id +'" size="4" value="'+ item.quantity +'">'
-								+ '<button onClick="var result = document.getElementById(\'qtyItem'+ item.variant_id +'\'); var qtyItem'+ item.variant_id +' = result.value; if( !isNaN( qtyItem'+ item.variant_id +' )) result.value++;return false;" class="increase items-count btn-plus" type="button">+</button></div>'
-								+ '<div style="width: 15%;" class="text-center"><span class="cart-price"> <span class="price">'+ Bizweb.formatMoney(item.price * item.quantity, "amount_no_decimals_with_comma_separator₫") +'</span> </span></div></div>';
-								jQuery(pageCartItem).appendTo(table);
-								if(item.variant_title == 'Default Title'){
-									$('.variant-title-popup').hide();
-								}
-								$('.link_product').text();
-							}); 
-						}
-					}
-				});
-			}
-		}
-		jQuery('.total-price').html(Bizweb.formatMoney(cart.total_price, "amount_no_decimals_with_comma_separator₫"));
-		updateCartDesc(cart);
-	}
-	Bizweb.updateCartPageFormMobile = function(cart, cart_summary_id, cart_count_id) {
-		if ((typeof cart_summary_id) === 'string') {
-			var cart_summary = jQuery(cart_summary_id);
-			if (cart_summary.length) {
-				// Start from scratch.
-				cart_summary.empty();
-				// Pull it all out.        
-				jQuery.each(cart, function(key, value) {
-					if (key === 'items') {
-
-						var table = jQuery(cart_summary_id);           
-						if (value.length) {   
-							jQuery('<div class="cart_page_mobile content-product-list"></div>').appendTo(table);
-							jQuery.each(value, function(i, item) {
-								if( item.image != null){
-									var src = Bizweb.resizeImage(item.image, 'small');
-								}else{
-									var src = "template/bizweb.dktcdn.net/thumb/large/assets/themes_support/noimage.gif";
-								}
-								jQuery('<div class="item-product item productid-' + item.variant_id +' "><div class="item-product-cart-mobile"><a href="' + item.url + '">	<a class="product-images1" href=""  title="' + item.name + '"><img width="80" height="150" alt="" src="' + src +  '" alt="' + item.name + '"></a></a></div>'
-									   + '<div class="title-product-cart-mobile"><h3><a href="' + item.url + '" title="' + item.name + '">' + item.name + '</a></h3><p>Giá: <span>' + Bizweb.formatMoney(item.price, "amount_no_decimals_with_comma_separator₫") + '</span></p></div>'
-									   + '<div class="select-item-qty-mobile"><div class="txt_center">'
-									   + '<input class="variantID" type="hidden" name="variantId" value="'+ item.variant_id +'"><button onClick="var result = document.getElementById(\'qtyMobile'+ item.variant_id +'\'); var qtyMobile'+ item.variant_id +' = result.value; if( !isNaN( qtyMobile'+ item.variant_id +' ) &amp;&amp; qtyMobile'+ item.variant_id +' &gt; 0 ) result.value--;return false;" class="reduced items-count btn-minus" type="button">–</button><input type="text" maxlength="12" min="0" class="input-text number-sidebar qtyMobile'+ item.variant_id +'" id="qtyMobile'+ item.variant_id +'" name="Lines" id="updates_'+ item.variant_id +'" size="4" value="'+ item.quantity +'"><button onClick="var result = document.getElementById(\'qtyMobile'+ item.variant_id +'\'); var qtyMobile'+ item.variant_id +' = result.value; if( !isNaN( qtyMobile'+ item.variant_id +' )) result.value++;return false;" class="increase items-count btn-plus" type="button">+</button></div>'
-									   + '<a class="button remove-item remove-item-cart" href="javascript:;" data-id="'+ item.variant_id +'">Xoá</a></div>').appendTo(table.children('.content-product-list'));
-
-							});
-
-							jQuery('<div class="header-cart-price" style=""><div class="title-cart "><h3 class="text-xs-left">Tổng tiền</h3><a class="text-xs-right totals_price_mobile">' + Bizweb.formatMoney(cart.total_price, "amount_no_decimals_with_comma_separator₫") + '</a></div>'
-								   + '<div class="checkout"><button class="btn-proceed-checkout-mobile" title="Tiến hành thanh toán" type="button" onclick="window.location.href=\'/checkout\'">'
-								   + '<span>Tiến hành thanh toán</span></button></div></div>').appendTo(table);
-						}
-
-					}
-				});
-			}
-		}
-		updateCartDesc(cart);
-	}
-
-
-	function updateCartDesc(data){
-		var $cartPrice = Bizweb.formatMoney(data.total_price, "amount_no_decimals_with_comma_separator₫"),
-			$cartMobile = $('#header .cart-mobile .quantity-product'),
-			$cartDesktop = $('.count_item_pr'),
-			$cartDesktopList = $('.cart-counter-list'),
-			$cartPopup = $('.cart-popup-count');
-
-		switch(data.item_count){
-			case 0:
-				$cartMobile.text('0');
-				$cartDesktop.text('0');
-				$cartDesktopList.text('0');
-				$cartPopup.text('0');
-
-				break;
-			case 1:
-				$cartMobile.text('1');
-				$cartDesktop.text('1');
-				$cartDesktopList.text('1');
-				$cartPopup.text('1');
-
-				break;
-			default:
-				$cartMobile.text(data.item_count);
-				$cartDesktop.text(data.item_count);
-				$cartDesktopList.text(data.item_count);
-				$cartPopup.text(data.item_count);
-
-				break;
-		}
-		$('.top-cart-content .top-subtotal .price, aside.sidebar .block-cart .subtotal .price, .popup-total .total-price').html($cartPrice);
-		$('.popup-total .total-price').html($cartPrice);
-		$('.shopping-cart-table-total .totals_price').html($cartPrice);
-		$('.header-cart-price .totals_price_mobile').html($cartPrice);
-		$('.cartCount').html(data.item_count);
-	}
-
-	Bizweb.onCartUpdate = function(cart) {
-		Bizweb.updateCartFromForm(cart, '.mini-products-list');
-		Bizweb.updateCartPopupForm(cart, '#popup-cart-desktop .tbody-popup');
-		
-		 };
-		 Bizweb.onCartUpdateClick = function(cart, variantId) {
-			 jQuery.each(cart, function(key, value) {
-				 if (key === 'items') {    
-					 jQuery.each(value, function(i, item) {	
-						 if(item.variant_id == variantId){
-							 $('.productid-'+variantId).find('.cart-price span.price').html(Bizweb.formatMoney(item.price * item.quantity, "amount_no_decimals_with_comma_separator₫"));
-							 $('.productid-'+variantId).find('.items-count').prop("disabled", false);
-							 $('.productid-'+variantId).find('.number-sidebar').prop("disabled", false);
-							 $('.productid-'+variantId +' .number-sidebar').val(item.quantity);
-							 if(item.quantity == '1'){
-								 $('.productid-'+variantId).find('.items-count.btn-minus').prop("disabled", true);
-							 }
-						 }
-					 }); 
-				 }
-			 });
-			 updateCartDesc(cart);
-		 }
-		 Bizweb.onCartRemoveClick = function(cart, variantId) {
-			 jQuery.each(cart, function(key, value) {
-				 if (key === 'items') {    
-					 jQuery.each(value, function(i, item) {	
-						 if(item.variant_id == variantId){
-							 $('.productid-'+variantId).remove();
-						 }
-					 }); 
-				 }
-			 });
-			 updateCartDesc(cart);
-		 }
-		 $(window).ready(function(){
-			 $.ajax({
-				 type: 'GET',
-				 url: '/cart.js',
-				 async: false,
-				 cache: false,
-				 dataType: 'json',
-				 success: function (cart){
-					 Bizweb.updateCartFromForm(cart, '.mini-products-list');
-					 Bizweb.updateCartPopupForm(cart, '#popup-cart-desktop .tbody-popup'); 
-					 
-					  }
-					 });
-				 });
-
-</script>		
-		<div id="popup-cart" class="modal fade" role="dialog">
-	<div id="popup-cart-desktop" class="clearfix">
-		<div class="content">
-			<a href="javascript:void(0)" class="close-window">x</a>
-			<div class="clearfix">
-				<div class="product-image f-left padding-right-20">
-					<img alt="img" src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/logob60e.png?1676014753174" style="max-width:120px; height:auto">
-				</div>
-				<div class="f-left" style=" width: calc(100% - 130px); ">
-					<div class="product-info f-left">
-						<p class="product-name margin-bottom-10" style="font-weight: 700;">
-
-							<a href="#" title=""></a> 
-						</p>
-						<p class="success-message btn-cart">Sản phẩm đã thêm vào giỏ hàng !</p>
-						
-
-					</div>
-					<div class="actions clearfix margin-top-10" style=" clear: left; ">
-						<button class="btn continue-shopping  btn-primary margin-right-10" onclick="$('#popup-cart').modal('hide');">Tiếp tục mua sắm</button>
-						<button class="btn btn-cart  btn-primary " onclick="window.location='cart.html'">Xem giỏ hàng</button>
-						
-					</div>  
-				</div>
-			</div>
-
-		</div>
-		<a title="Close" class="quickview-close close-window" href="javascript:;" onclick="$('#popup-cart').modal('hide');"><i class="fa  fa-times-circle"></i></a>
-	</div>
-
-</div>
-<div id="myModal" class="modal fade" role="dialog">
-</div>
-		<script src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/cs.scriptb60e.js?1676014753174" type="text/javascript"></script>
-
-		<!-- Quick view -->
-				
-		<script src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/quickviewb60e.js?1676014753174" type="text/javascript"></script>	
-		
-
-<div id="quick-view-product" class="quickview-product" style="display:none;">
-	<div class="quickview-overlay fancybox-overlay fancybox-overlay-fixed"></div>
-	<div class="quick-view-product"></div>
-	<div id="quickview-modal" style="display:none;">
-		<div class="block-quickview primary_block row">
-			<div class="product-left-column col-xs-12 col-sm-4 col-md-4">
-				<div class="clearfix image-block">
-					<span class="view_full_size">
-						<a class="img-product" title="" href="#">
-							<img id="product-featured-image-quickview" class="img-responsive product-featured-image-quickview" src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/logob60e.png?1676014753174" alt="quickview"  />
-						</a>
-					</span>
-					<div class="loading-imgquickview" style="display:none;"></div>
-				</div>
-				<div class="more-view-wrapper clearfix">
-					<div id="thumbs_list_quickview">
-						<ul class="product-photo-thumbs quickview-more-views-owlslider" id="thumblist_quickview"></ul>
-					</div>
-				</div>
-			</div>
-			<div class="product-center-column product-info product-item col-xs-12 col-sm-8 col-md-8">
-				<h3><a class="qwp-name" href="#">&nbsp;</a></h3>
-				<div class="qv-header-info">
-					Tình trạng: 					
-					<span class="inventory_quantity">Còn hàng</span>					
-					<span class="line">|</span>
-					Mã SP: 
-					<span class="masp">Chưa cập nhật</span>
-				</div>				
-				<div class="product-description rte"></div>
-
-				<div class="quickview-info">
-					<span class="prices">
-						<span class="price"></span>
-						<del class="old-price"></del>
-					</span>
-				</div>
-
-				<form action="https://theme-furniture-2.mysapo.net/cart/add" method="post" enctype="multipart/form-data" class="padding-top-20 variants form-ajaxtocart">
-					<span class="price-product-detail hidden" style="opacity: 0;">
-						<span class="">1111</span>
-					</span>
-					<select name='variantId' class="hidden" style="display:none"></select>
-					<div class="clearfix"></div>
-					<div class="quantity_wanted_p">
-						<label for="quantity-detail" class="quantity-selector">Số lượng: </label>
-						<div class="custom custom-btn-number">
-							<span class="qtyminus" data-field="quantity"><i class="fa fa-caret-down"></i></span>							
-							<input type="text" id="quantity-detail" data-field='quantity' name="quantity" value="1" class="quantity-selector text-center">
-							<span class="qtyplus" data-field="quantity"><i class="fa fa-caret-up"></i></span>										
-
-						</div>
-
-						<button type="submit" name="add" class="btn btn-primary add_to_cart add_to_cart_detail ajax_addtocart">
-							<span >THÊM VÀO GIỎ HÀNG</span>
-						</button>
-					</div>
-					<div class="total-price" style="display:none">
-						<label>Tổng cộng: </label>
-						<span></span>
-					</div>
-
-				</form>
-			</div>
-
-		</div>      
-		<a title="Close" class="quickview-close close-window" href="javascript:;"><i class="fa   fa-times-circle"></i></a>
-	</div>    
-</div>
-<script type="text/javascript">  
-	Bizweb.doNotTriggerClickOnThumb = false;
-	function changeImageQuickView(img, selector) {
-		var src = $(img).attr("src");
-		src = src.replace("_compact", "");
-		$(selector).attr("src", src);
-	}
-	var selectCallbackQuickView = function(variant, selector) {
-		$('#quick-view-product form').show();
-		var productItem = jQuery('.quick-view-product .product-item');
-		addToCart = productItem.find('.add_to_cart_detail'),
-			iq = productItem.find('.inventory_quantity'),
-			sku = productItem.find('.masp'),
-			productPrice = productItem.find('.price'),
-			comparePrice = productItem.find('.old-price'),
-			totalPrice = productItem.find('.total-price span');
-		if(variant && variant.sku ){
-			sku.text(variant.sku);
-		}else{
-			sku.text('Đang cập nhật');
-		}
-		if (variant && variant.available) {
-
-			var form = jQuery('#' + selector.domIdPrefix).closest('form');
-			for (var i=0,length=variant.options.length; i<length; i++) {
-				var radioButton = form.find('.swatch[data-option-index="' + i + '"] :radio[value="' + variant.options[i] +'"]');
-				if (radioButton.size()) {
-					radioButton.get(0).checked = true;
-				}
-			}						
-			if(variant.inventory_management == 'bizweb'){
-				iq.text("Còn "+variant.inventory_quantity +" sản phẩm");
-			}else{
-				iq.text("Còn hàng");
-			}
-			addToCart.removeClass('disabled').removeAttr('disabled');
-			$(addToCart).find("span").text("THÊM VÀO GIỎ HÀNG");
-
-			if(variant.price < 1){			   
-				$("#quick-view-product .price").html('Liên hệ');
-				$("#quick-view-product del, #quick-view-product .quantity_wanted_p").hide();
-				$("#quick-view-product .prices .old-price").hide();
-
-			}else{
-				productPrice.html(Bizweb.formatMoney(variant.price, "amount_no_decimals_with_comma_separator₫"));
-				if ( variant.compare_at_price > variant.price ) {
-					comparePrice.html(Bizweb.formatMoney(variant.compare_at_price, "amount_no_decimals_with_comma_separator₫")).show();         
-
-					productPrice.addClass('on-sale');
-				} else {
-					comparePrice.hide();
-					productPrice.removeClass('on-sale');
-				}
-
-				$(".quantity_wanted_p").show();
-
-
-			}
-
-
-			
-			 updatePricingQuickView();
-			  
-			   /*begin variant image*/
-			   if (variant && variant.featured_image) {
-
-				   var originalImage = $("#product-featured-image-quickview");
-				   var newImage = variant.featured_image;
-				   var element = originalImage[0];
-				   Bizweb.Image.switchImage(newImage, element, function (newImageSizedSrc, newImage, element) {
-					   $('#thumblist_quickview img').each(function() {
-						   var parentThumbImg = $(this).parent();
-						   var productImage = $(this).parent().data("image");
-						   if (newImageSizedSrc.includes(productImage)) {
-							   $(this).parent().trigger('click');
-							   return false;
-						   }
-					   });
-				   });
-				   $('#product-featured-image-quickview').attr('src',variant.featured_image.src);
-			   }
-			   } else {
-				   iq.text("Hết hàng");
-				   addToCart.addClass('disabled').attr('disabled', 'disabled');
-				   $(addToCart).find("span").text("Hết hàng");	
-				   if(variant){
-					   if(variant.price < 1){			   
-
-						   $("#quick-view-product .price").html('Liên hệ');
-						   $("#quick-view-product del").hide();
-						   $("#quick-view-product .quantity_wanted_p").show();
-						   $("#quick-view-product .prices .old-price").hide();
-						   comparePrice.hide();
-						   productPrice.removeClass('on-sale');
-						   addToCart.addClass('disabled').attr('disabled', 'disabled');
-						   $(addToCart).find("span").text("Hết hàng");				   
-					   }else{
-
-						   $("#quick-view-product .price").html(Bizweb.formatMoney(variant.price, "amount_no_decimals_with_comma_separator₫"));
-						   $("#quick-view-product del ,#quick-view-product .quantity_wanted_p").show();
-						   $("#quick-view-product .prices .old-price").show();
-
-						   addToCart.addClass('disabled').attr('disabled', 'disabled');
-						   $(addToCart).find("span").text("Hết hàng");
-						   if ( variant.compare_at_price > variant.price ) {
-							   comparePrice.html(Bizweb.formatMoney(variant.compare_at_price, "amount_no_decimals_with_comma_separator₫")).show();         							  
-							   productPrice.addClass('on-sale');
-						   } else {
-							   comparePrice.hide();
-							   productPrice.removeClass('on-sale');
-						   }
-					   }
-				   }else{
-					   $("#quick-view-product .price").html('Liên hệ');
-					   $("#quick-view-product del").hide();
-					   $("#quick-view-product .quantity_wanted_p").hide();
-					   $("#quick-view-product .prices .old-price").hide();
-					   comparePrice.hide();
-					   productPrice.removeClass('on-sale');
-					   addToCart.addClass('disabled').attr('disabled', 'disabled');
-					   $(addToCart).find("span").text("Hết hàng");	
-				   }
-			   }
-
-
-			  };
-</script> 
-
-		
-
-		
-		<!-- Main JS -->	
-		<script src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/mainb60e.js?1676014753174" type="text/javascript"></script>				
-
-
-		<!-- Product detail JS,CSS -->
-				
-		
-		<script>
-			document.addEventListener("DOMContentLoaded", function() {
-				var elements = document.getElementsByTagName("INPUT");
-				for (var i = 0; i < elements.length; i++) {
-					elements[i].oninvalid = function(e) {						
-						e.target.setCustomValidity("");
-						if (!e.target.validity.valid) {
-							console.log(e.srcElement);
-							if(e.srcElement.type=="email"){
-								e.target.setCustomValidity("Email không đúng định dạng");
-							}else{
-								e.target.setCustomValidity("Không được bỏ trống");
-							}
-
-
-						}
-					};
-					elements[i].oninput = function(e) {
-						e.target.setCustomValidity("");
-					};
-				}
-			})
-			document.addEventListener("DOMContentLoaded", function() {
-				var elements = document.getElementsByTagName("textarea");
-				for (var i = 0; i < elements.length; i++) {
-					elements[i].oninvalid = function(e) {						
-						e.target.setCustomValidity("");
-						if (!e.target.validity.valid) {
-							console.log(e.srcElement);
-							if(e.srcElement.type=="email"){
-								e.target.setCustomValidity("Email không đúng định dạng");
-							}else{
-								e.target.setCustomValidity("Không được bỏ trống");
-							}
-
-
-						}
-					};
-					elements[i].oninput = function(e) {
-						e.target.setCustomValidity("");
-					};
-				}
-			})
-
-		</script>
-		<script type='text/javascript'>
-
-			//<![CDATA[ 
-			function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("footer")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }loadCSS("../use.fontawesome.com/releases/v5.7.2/css/all.css");
-			//]]> 
-		</script>
-		<script>
-			(function () {
-
-				var ll = new LazyLoad({              
-					elements_selector: ".lazyload",
-					load_delay: 500,
-					threshold: 0
-				});
-			})();
-		</script>
-	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"6c92bbc133584e029f09e826272d3606","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-</body>
-
-<!-- Mirrored from theme-furniture-2.mysapo.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Apr 2026 03:34:13 GMT -->
-</html>
+@extends('layouts.app')
+@section('content')
+
+
+  <!-- Main content -->
+  
+  <h1 class="hidden">
+    Theme Furniture - Cửa hàng nội thất
+  </h1>
+  <section class="awe-section-1">
+    <div class="main-slider">
+      <div class="home-slider " data-lg-items='1' data-md-items='1' data-sm-items='1'
+      data-xs-items="1" data-margin='0' data-nav="true" data-dot="true">
+        <div class="item">
+          <a href="#" class="clearfix">
+            <img src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/slider_1b60e.jpg?1676014753174"
+            alt="alt slider demo">
+          </a>
+        </div>
+      </div>
+    </div>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
+    </script>
+    <script>
+      $('.home-slider').slick({
+        lazyLoad: 'ondemand',
+        centerMode: false,
+        focusOnSelect: true,
+        dots: false,
+        loop: false,
+        dots: false,
+        arrows: false,
+        slidesToShow: 1
+
+      });
+    </script>
+  </section>
+  <section class="awe-section-2">
+    <div class="widget widget-policy hidden-xs">
+      <div class="container">
+        <div class="widget-inner">
+          <div class="row row-noGutter">
+            <div class="col-md-4 col-sm-4">
+              <div class="policy-item">
+                <div class="media flexbox">
+                  <img src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/policy1b60e.png?1676014753174"
+                  alt="MIỄN PHÍ VẬN CHUYỂN">
+                </div>
+                <span>
+                  MIỄN PHÍ VẬN CHUYỂN
+                </span>
+                <p>
+                  Trong 10km với mọi đơn đặt hàng
+                </p>
+              </div>
+              <!-- /.policy -->
+            </div>
+            <div class="col-md-4 col-sm-4">
+              <div class="policy-item">
+                <div class="media flexbox">
+                  <img src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/policy2b60e.png?1676014753174"
+                  alt="HOÀN TIỀN">
+                </div>
+                <span>
+                  HOÀN TIỀN
+                </span>
+                <p>
+                  100% trong vòng 30 ngày
+                </p>
+              </div>
+              <!-- /.policy -->
+            </div>
+            <div class="col-md-4 col-sm-4">
+              <div class="policy-item">
+                <div class="media flexbox">
+                  <img src="template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/policy3b60e.png?1676014753174"
+                  alt="HỖ TRỢ  24/24">
+                </div>
+                <span>
+                  HỖ TRỢ 24/24
+                </span>
+                <p>
+                  Gọi 19001009 bất cứ lúc nào
+                </p>
+              </div>
+              <!-- /.policy -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="awe-section-3">
+    <div class="section section-collections">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6">
+            <div class="collection-item large relative">
+              <a href="bo-ban-ghe.html">
+                <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                data-src="https://bizweb.dktcdn.net/100/210/557/collections/b1.jpg?v=1494066568667"
+                alt="Bộ bàn ghế" title="Bộ bàn ghế" />
+              </a>
+              <div class="collection-info absolute">
+                <h3>
+                  <a href="bo-ban-ghe.html">
+                    Bộ bàn ghế
+                  </a>
+                </h3>
+                <p>
+                  Những mẫu bộ bàn ghế mới nhất cho phòng
+                  <br />
+                  khách của bạn trong hè này
+                </p>
+                <a href="bo-ban-ghe.html" class="btn btn-outline margin-top-10">
+                  Xem ngay
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-6">
+            <div class="row">
+              <div class="col-xs-6 col-sm-6">
+                <div class="collection-item relative">
+                  <a href="ghe-tua.html">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="https://bizweb.dktcdn.net/100/210/557/collections/b2.jpg?v=1494066587617"
+                    alt="Ghế tựa" title="Ghế tựa" />
+                  </a>
+                  <div class="collection-info absolute">
+                    <h3>
+                      <a href="ghe-tua.html">
+                        Ghế tựa
+                      </a>
+                    </h3>
+                    <p>
+                      Những mẫu ghế tựa mới nhất
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-6 col-sm-6">
+                <div class="collection-item relative">
+                  <a href="ghe-sofa.html">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="https://bizweb.dktcdn.net/100/210/557/collections/b3.jpg?v=1494066603333"
+                    alt="Ghế Sofa" title="Ghế Sofa" />
+                  </a>
+                  <div class="collection-info absolute">
+                    <h3>
+                      <a href="ghe-sofa.html">
+                        Ghế Sofa
+                      </a>
+                    </h3>
+                    <p>
+                      Những mẫu ghế sofa&nbsp;mới nhất
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-6 col-sm-6">
+                <div class="collection-item relative">
+                  <a href="ban-ghe-go.html">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="https://bizweb.dktcdn.net/100/210/557/collections/b4.jpg?v=1494066616753"
+                    alt="Bàn ghế gỗ" title="Bàn ghế gỗ" />
+                  </a>
+                  <div class="collection-info absolute">
+                    <h3>
+                      <a href="ban-ghe-go.html">
+                        Bàn ghế gỗ
+                      </a>
+                    </h3>
+                    <p>
+                      Những mẫu bàn ghế mới nhất
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-6 col-sm-6">
+                <div class="collection-item relative">
+                  <a href="ban-lam-viec.html">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="https://bizweb.dktcdn.net/100/210/557/collections/b5.jpg?v=1494066632437"
+                    alt="Bàn làm việc" title="Bàn làm việc" />
+                  </a>
+                  <div class="collection-info absolute">
+                    <h3>
+                      <a href="ban-lam-viec.html">
+                        Bàn làm việc
+                      </a>
+                    </h3>
+                    <p>
+                      Những mẫu bàn làm việc&nbsp;mới nhất
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="awe-section-4">
+    <div class="section section_tab_product a-center products-view-grid">
+      <div class="container">
+        <div class="e-tabs">
+          <div class="row row-noGutter">
+            <div class="col-sm-12">
+              <div class="content">
+                <div>
+                  <h2>
+                    Sản phẩm mới
+                  </h2>
+                  <ul class="tabs tabs-title clearfix">
+                    <li class="tab-link" data-tab="tab-1">
+                      <span>
+                        Mới nhất
+                      </span>
+                    </li>
+                    <li class="tab-link" data-tab="tab-2">
+                      <span>
+                        Nổi bật
+                      </span>
+                    </li>
+                    <li class="tab-link" data-tab="tab-3">
+                      <span>
+                        Bán chạy
+                      </span>
+                    </li>
+                  </ul>
+                  <div id="tab-1" class="tab-content">
+                    <div class="products row row-gutter-14">
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/39.jpg?v=1493897732810"
+                              alt="Đèn trang trí vách Netviet NV 016">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-016.html"
+                                data-handle="den-trang-tri-vach-netviet-nv-016" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">
+                                Đèn trang trí vách Netviet NV 016
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  690.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665253"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593291" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/37.jpg?v=1493897732273"
+                              alt="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html"
+                                data-handle="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
+                                Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  970.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665252"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593289" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/82dd513b5ca0b4e058c5f74ac5700b.jpg?v=1493897731777"
+                              alt="Đèn trang trí vách cao cấp NETVIET NV 8825">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html"
+                                data-handle="den-trang-tri-vach-cao-cap-netviet-nv-8825" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">
+                                Đèn trang trí vách cao cấp NETVIET NV 8825
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  780.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665251"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593288" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/9.jpg?v=1493897731053"
+                              alt="Đèn trang trí vách Netviet NV 8205/1">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-8205-1.html"
+                                data-handle="den-trang-tri-vach-netviet-nv-8205-1" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">
+                                Đèn trang trí vách Netviet NV 8205/1
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  590.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665250"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593287" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/6.jpg?v=1493897730310"
+                              alt="Đèn tường Composite An Phước B948">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-tuong-composite-an-phuoc-b948.html"
+                                data-handle="den-tuong-composite-an-phuoc-b948" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">
+                                Đèn tường Composite An Phước B948
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  10.000.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665249"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593286" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/4.jpg?v=1493897729767"
+                              alt="Đèn treo pha lê green light">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-treo-pha-le-green-light.html"
+                                data-handle="den-treo-pha-le-green-light" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">
+                                Đèn treo pha lê green light
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  150.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665248"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593285" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="giuong-bmy.html" title="Giường BMY">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood88591626222zoomf5a07d81.jpg?v=1493897729220"
+                              alt="Giường BMY">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="giuong-bmy.html" data-handle="giuong-bmy"
+                                class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="giuong-bmy.html" title="Giường BMY">
+                                Giường BMY
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  14.490.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665247"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input class="hidden" type="hidden" name="variantId" value="10806291"
+                                />
+                                <button class="btn btn-white btn-cart btn  left-to" title="Chọn sản phẩm"
+                                type="button" onclick="window.location.href='giuong-bmy.html'">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Tùy chọn
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/tulip89482122121zoom.jpg?v=1493897728470"
+                              alt="Giường ngủ GN 016">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="giuong-ngu-gn-016.html"
+                                data-handle="giuong-ngu-gn-016" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">
+                                Giường ngủ GN 016
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  9.800.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665246"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593283" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.products -->
+                  </div>
+                  <div id="tab-2" class="tab-content">
+                    <div class="products row row-gutter-14">
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="ke-sach-5-tang-ubl.html" title="Kệ sách 5 tầng EWQ">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/indie03582230321zoom.jpg?v=1493897742273"
+                              alt="Kệ sách 5 tầng EWQ">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="ke-sach-5-tang-ubl.html"
+                                data-handle="ke-sach-5-tang-ubl" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="ke-sach-5-tang-ubl.html" title="Kệ sách 5 tầng EWQ">
+                                Kệ sách 5 tầng EWQ
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  567.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665264"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593302" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="ke-sach-big-one-vietnam-spr-1690prtdk.html" title="Kệ sách BIG ONE VIETNAM SPR-1690PRTDK">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/indie07797920321zoom.jpg?v=1493897743077"
+                              alt="Kệ sách BIG ONE VIETNAM SPR-1690PRTDK">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="ke-sach-big-one-vietnam-spr-1690prtdk.html"
+                                data-handle="ke-sach-big-one-vietnam-spr-1690prtdk" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="ke-sach-big-one-vietnam-spr-1690prtdk.html" title="Kệ sách BIG ONE VIETNAM SPR-1690PRTDK">
+                                Kệ sách BIG ONE VIETNAM SPR-1690PRTDK
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  645.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665265"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593303" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="tu-quan-ao-big-one-vietnam-wvr-1855l.html" title="Tủ quần áo BIG ONE VIETNAM WVR-1855L">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/alexdaisy04517243221zoom.jpg?v=1493897743913"
+                              alt="Tủ quần áo BIG ONE VIETNAM WVR-1855L">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="tu-quan-ao-big-one-vietnam-wvr-1855l.html"
+                                data-handle="tu-quan-ao-big-one-vietnam-wvr-1855l" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="tu-quan-ao-big-one-vietnam-wvr-1855l.html" title="Tủ quần áo BIG ONE VIETNAM WVR-1855L">
+                                Tủ quần áo BIG ONE VIETNAM WVR-1855L
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  4.000.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665266"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593304" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="tu-ao-b1241k.html" title="Tủ áo B1241K">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/alexdaisy18858943221zoom.jpg?v=1493897744660"
+                              alt="Tủ áo B1241K">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-b1241k.html" data-handle="tu-ao-b1241k"
+                                class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="tu-ao-b1241k.html" title="Tủ áo B1241K">
+                                Tủ áo B1241K
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  5.400.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665267"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593305" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="tu-ao-bellasofa-b1239.html" title="Tủ Áo Bellasofa B1239">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30816024221zoom.jpg?v=1493897745420"
+                              alt="Tủ Áo Bellasofa B1239">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-bellasofa-b1239.html"
+                                data-handle="tu-ao-bellasofa-b1239" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="tu-ao-bellasofa-b1239.html" title="Tủ Áo Bellasofa B1239">
+                                Tủ Áo Bellasofa B1239
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  3.790.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665268"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593306" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="tu-ao-b1238.html" title="Tủ áo B1238">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30845024221zoom.jpg?v=1493897746203"
+                              alt="Tủ áo B1238">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-b1238.html" data-handle="tu-ao-b1238"
+                                class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="tu-ao-b1238.html" title="Tủ áo B1238">
+                                Tủ áo B1238
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  5.100.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665269"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593307" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="tu-ao-hut.html" title="Tủ áo HUT">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30874024221zoom.jpg?v=1493897747000"
+                              alt="Tủ áo HUT">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-hut.html" data-handle="tu-ao-hut"
+                                class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="tu-ao-hut.html" title="Tủ áo HUT">
+                                Tủ áo HUT
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  8.000.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665270"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593308" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="tu-qtr-01.html" title="Tủ QTR 01">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile31702024221zoom.jpg?v=1493897747867"
+                              alt="Tủ QTR 01">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="tu-qtr-01.html" data-handle="tu-qtr-01"
+                                class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="tu-qtr-01.html" title="Tủ QTR 01">
+                                Tủ QTR 01
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  5.400.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665271"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593309" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.products -->
+                  </div>
+                  <div id="tab-3" class="tab-content">
+                    <div class="products row row-gutter-14">
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/39.jpg?v=1493897732810"
+                              alt="Đèn trang trí vách Netviet NV 016">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-016.html"
+                                data-handle="den-trang-tri-vach-netviet-nv-016" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">
+                                Đèn trang trí vách Netviet NV 016
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  690.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665253"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593291" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/37.jpg?v=1493897732273"
+                              alt="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html"
+                                data-handle="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
+                                Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  970.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665252"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593289" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/82dd513b5ca0b4e058c5f74ac5700b.jpg?v=1493897731777"
+                              alt="Đèn trang trí vách cao cấp NETVIET NV 8825">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html"
+                                data-handle="den-trang-tri-vach-cao-cap-netviet-nv-8825" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">
+                                Đèn trang trí vách cao cấp NETVIET NV 8825
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  780.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665251"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593288" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/9.jpg?v=1493897731053"
+                              alt="Đèn trang trí vách Netviet NV 8205/1">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-8205-1.html"
+                                data-handle="den-trang-tri-vach-netviet-nv-8205-1" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">
+                                Đèn trang trí vách Netviet NV 8205/1
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  590.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665250"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593287" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/6.jpg?v=1493897730310"
+                              alt="Đèn tường Composite An Phước B948">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-tuong-composite-an-phuoc-b948.html"
+                                data-handle="den-tuong-composite-an-phuoc-b948" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">
+                                Đèn tường Composite An Phước B948
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  10.000.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665249"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593286" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/4.jpg?v=1493897729767"
+                              alt="Đèn treo pha lê green light">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="den-treo-pha-le-green-light.html"
+                                data-handle="den-treo-pha-le-green-light" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">
+                                Đèn treo pha lê green light
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  150.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665248"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593285" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="giuong-bmy.html" title="Giường BMY">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood88591626222zoomf5a07d81.jpg?v=1493897729220"
+                              alt="Giường BMY">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="giuong-bmy.html" data-handle="giuong-bmy"
+                                class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="giuong-bmy.html" title="Giường BMY">
+                                Giường BMY
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  14.490.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665247"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input class="hidden" type="hidden" name="variantId" value="10806291"
+                                />
+                                <button class="btn btn-white btn-cart btn  left-to" title="Chọn sản phẩm"
+                                type="button" onclick="window.location.href='giuong-bmy.html'">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Tùy chọn
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6 col-sm-4 col-lg-3">
+                        <div class="product-box">
+                          <div class="product-thumbnail">
+                            <a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">
+                              <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                              data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/tulip89482122121zoom.jpg?v=1493897728470"
+                              alt="Giường ngủ GN 016">
+                            </a>
+                            <div class="product-action clearfix">
+                              <div class="action-item">
+                                <a data-toggle="tooltip" title="Xem nhanh" href="giuong-ngu-gn-016.html"
+                                data-handle="giuong-ngu-gn-016" class="btn-square btn_view btn  right-to quick-view">
+                                  <i class="fab fa-searchengin">
+                                  </i>
+                                </a>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="product-info a-center">
+                            <h3 class="product-name">
+                              <a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">
+                                Giường ngủ GN 016
+                              </a>
+                            </h3>
+                            <div class="price-box clearfix">
+                              <div class="special-price">
+                                <span class="price product-price">
+                                  9.800.000₫
+                                </span>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                            class="variants a-center form-nut-grid" data-id="product-actions-6665246"
+                            enctype="multipart/form-data">
+                              <div class="action-item">
+                                <input type="hidden" name="variantId" value="10593283" />
+                                <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                                  <i class="fas fa-plus">
+                                  </i>
+                                  Mua ngay
+                                </button>
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- /.products -->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="awe-section-5">
+    <div class="section section-deal products-view-grid">
+      <div class="container">
+        <div class="section-title a-center">
+          <h2>
+            Ghế sofa
+          </h2>
+          <p>
+            Những mẫu bàn ghế mới nhất 2018
+          </p>
+        </div>
+        <div class="section-content">
+          <div class="products products-view-grid  slick_col1" data-md-items="4"
+          data-sm-items="3" data-xs-items="2" data-margin="30" data-nav="true">
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="ban-cafe-tron.html" title="Bàn tròn DKY">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/livingexpress57588224121zoom.jpg?v=1493897712413"
+                    alt="Bàn tròn DKY">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="ban-cafe-tron.html" data-handle="ban-cafe-tron"
+                      class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="ban-cafe-tron.html" title="Bàn tròn DKY">
+                      Bàn tròn DKY
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        3.800.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665228"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593265" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="ban-cafe-vuong-kinh.html" title="Bàn vuông kính">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/forzza62211640121zoom.jpg?v=1493897711627"
+                    alt="Bàn vuông kính">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="ban-cafe-vuong-kinh.html"
+                      data-handle="ban-cafe-vuong-kinh" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="ban-cafe-vuong-kinh.html" title="Bàn vuông kính">
+                      Bàn vuông kính
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        467.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665227"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593264" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="ban-uong-cafe-go-dep.html" title="Bàn gỗ đẹp">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood30892881911zoom.jpg?v=1493897710837"
+                    alt="Bàn gỗ đẹp">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="ban-uong-cafe-go-dep.html"
+                      data-handle="ban-uong-cafe-go-dep" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="ban-uong-cafe-go-dep.html" title="Bàn gỗ đẹp">
+                      Bàn gỗ đẹp
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        2.345.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665226"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593263" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="ban-uong-cafe-go-dai.html" title="Bàn gỗ dài">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood30931881911zoom.jpg?v=1493897710107"
+                    alt="Bàn gỗ dài">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="ban-uong-cafe-go-dai.html"
+                      data-handle="ban-uong-cafe-go-dai" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="ban-uong-cafe-go-dai.html" title="Bàn gỗ dài">
+                      Bàn gỗ dài
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        1.890.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665225"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593262" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="ban-uong-cafe-dai.html" title="Bàn dài UYG">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/solide41335106321zoom.jpg?v=1493897709337"
+                    alt="Bàn dài UYG">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="ban-uong-cafe-dai.html"
+                      data-handle="ban-uong-cafe-dai" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="ban-uong-cafe-dai.html" title="Bàn dài UYG">
+                      Bàn dài UYG
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        5.730.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665224"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593261" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="sofa-don-sfd01.html" title="Sofa đơn SFD01">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/pp14258500321zoom.jpg?v=1493897708580"
+                    alt="Sofa đơn SFD01">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="sofa-don-sfd01.html"
+                      data-handle="sofa-don-sfd01" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="sofa-don-sfd01.html" title="Sofa đơn SFD01">
+                      Sofa đơn SFD01
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        4.500.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665223"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593260" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="ghe-sopha-don-dep.html" title="Ghế sopha đơn đẹp">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/pp14284500321zoom.jpg?v=1493897707700"
+                    alt="Ghế sopha đơn đẹp">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="ghe-sopha-don-dep.html"
+                      data-handle="ghe-sopha-don-dep" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="ghe-sopha-don-dep.html" title="Ghế sopha đơn đẹp">
+                      Ghế sopha đơn đẹp
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        9.800.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665222"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593259" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="sofa-don-sfd16.html" title="Sofa đơn SFD16">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/pp14292500321zoom.jpg?v=1493897706637"
+                    alt="Sofa đơn SFD16">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="sofa-don-sfd16.html"
+                      data-handle="sofa-don-sfd16" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="sofa-don-sfd16.html" title="Sofa đơn SFD16">
+                      Sofa đơn SFD16
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        4.568.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665221"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593258" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- /.products -->
+        </div>
+      </div>
+    </div>
+    <script>
+      $('.slick_col1').slick({
+        autoplay: true,
+        autoplaySpeed: 5000,
+        dots: false,
+        arrows: false,
+        speed: 300,
+        rows: 1,
+        loop: false,
+        infinite: false,
+        slidesToShow: 4,
+        slidesToScroll: 2,
+        responsive: [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 4,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 991,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 767,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        }]
+      });
+    </script>
+  </section>
+  <section class="awe-section-6">
+    <div class="section section-deal products-view-grid">
+      <div class="container">
+        <div class="section-title a-center">
+          <h2>
+            Bàn phòng khách
+          </h2>
+          <p>
+            Những mẫu bàn phòng khách mới nhất 2018
+          </p>
+        </div>
+        <div class="section-content">
+          <div class="products products-view-grid  slick_col2" data-md-items="4"
+          data-sm-items="3" data-xs-items="2" data-margin="30" data-nav="true">
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="ke-sach-go-4-tang-40.html" title="Kệ sách gỗ 4 tầng 40">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/solide40632406321zoom.jpg?v=1493897737670"
+                    alt="Kệ sách gỗ 4 tầng 40">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="ke-sach-go-4-tang-40.html"
+                      data-handle="ke-sach-go-4-tang-40" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="ke-sach-go-4-tang-40.html" title="Kệ sách gỗ 4 tầng 40">
+                      Kệ sách gỗ 4 tầng 40
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        510.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665258"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593296" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="gia-sach-treo-hurakids-2130-002.html" title="Giá sách treo Hurakids 2130-002">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/alexdaisy09478143221zoom.jpg?v=1493897736657"
+                    alt="Giá sách treo Hurakids 2130-002">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="gia-sach-treo-hurakids-2130-002.html"
+                      data-handle="gia-sach-treo-hurakids-2130-002" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="gia-sach-treo-hurakids-2130-002.html" title="Giá sách treo Hurakids 2130-002">
+                      Giá sách treo Hurakids 2130-002
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        598.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665257"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593295" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="den-vach-kinh-nv-86664.html" title="Đèn vách kính NV 86664">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/lightliving68071172021zoom.jpg?v=1493897735920"
+                    alt="Đèn vách kính NV 86664">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="den-vach-kinh-nv-86664.html"
+                      data-handle="den-vach-kinh-nv-86664" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="den-vach-kinh-nv-86664.html" title="Đèn vách kính NV 86664">
+                      Đèn vách kính NV 86664
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        987.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665256"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593294" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="den-trang-tri-vach-cao-cap-yui.html" title="Đèn trang trí vách cao cấp YUI">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/re.jpg?v=1493897734663"
+                    alt="Đèn trang trí vách cao cấp YUI">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-yui.html"
+                      data-handle="den-trang-tri-vach-cao-cap-yui" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="den-trang-tri-vach-cao-cap-yui.html" title="Đèn trang trí vách cao cấp YUI">
+                      Đèn trang trí vách cao cấp YUI
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        809.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665255"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593293" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="den-trang-tri-tru-cong-netviet-nvt-1.html" title="Đèn trang trí trụ cổng Netviet NVT">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/lightliving01770025321zoom12d7.jpg?v=1493897733727"
+                    alt="Đèn trang trí trụ cổng Netviet NVT">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-tru-cong-netviet-nvt-1.html"
+                      data-handle="den-trang-tri-tru-cong-netviet-nvt-1" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="den-trang-tri-tru-cong-netviet-nvt-1.html" title="Đèn trang trí trụ cổng Netviet NVT">
+                      Đèn trang trí trụ cổng Netviet NVT
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        764.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665254"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593292" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="khay-dung-xa-phong.html" title="Khay đựng xà phòng">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/krm12132814011zoom.jpg?v=1493897721863"
+                    alt="Khay đựng xà phòng">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="khay-dung-xa-phong.html"
+                      data-handle="khay-dung-xa-phong" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="khay-dung-xa-phong.html" title="Khay đựng xà phòng">
+                      Khay đựng xà phòng
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        102.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665238"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593275" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="thanh-dung-xa-phong.html" title="Thanh đựng xà phòng">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/krm1286905491zoom.jpg?v=1493897720757"
+                    alt="Thanh đựng xà phòng">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="thanh-dung-xa-phong.html"
+                      data-handle="thanh-dung-xa-phong" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="thanh-dung-xa-phong.html" title="Thanh đựng xà phòng">
+                      Thanh đựng xà phòng
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        82.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665237"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593274" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="thanh-sat-tfu.html" title="Thanh sắt TFU">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/krm1260145491zoom.jpg?v=1493897719623"
+                    alt="Thanh sắt TFU">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="thanh-sat-tfu.html" data-handle="thanh-sat-tfu"
+                      class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="thanh-sat-tfu.html" title="Thanh sắt TFU">
+                      Thanh sắt TFU
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        98.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665236"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593273" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- /.products -->
+        </div>
+      </div>
+    </div>
+    <script>
+      $('.slick_col2').slick({
+        autoplay: true,
+        autoplaySpeed: 5000,
+        dots: false,
+        arrows: false,
+        speed: 300,
+        rows: 1,
+        loop: false,
+        infinite: false,
+        slidesToShow: 4,
+        slidesToScroll: 2,
+        responsive: [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 4,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 991,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 767,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        }]
+      });
+    </script>
+  </section>
+  <section class="awe-section-7">
+    <div class="section section-deal products-view-grid">
+      <div class="container">
+        <div class="section-title a-center">
+          <h2>
+            Giường ngủ
+          </h2>
+          <p>
+            Những mẫu giường mới nhất 2018
+          </p>
+        </div>
+        <div class="section-content">
+          <div class="products products-view-grid  slick_col3" data-md-items="4"
+          data-sm-items="3" data-xs-items="2" data-margin="30" data-nav="true">
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="tu-hug-90.html" title="Tủ HUG 90">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/indie07540920321zoom.jpg?v=1493897749447"
+                    alt="Tủ HUG 90">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="tu-hug-90.html" data-handle="tu-hug-90"
+                      class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="tu-hug-90.html" title="Tủ HUG 90">
+                      Tủ HUG 90
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        12.000.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665273"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593311" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="tu-bnd-09.html" title="Tủ BND 09">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood87167474911zoom.jpg?v=1493897748617"
+                    alt="Tủ BND 09">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="tu-bnd-09.html" data-handle="tu-bnd-09"
+                      class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="tu-bnd-09.html" title="Tủ BND 09">
+                      Tủ BND 09
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        8.990.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665272"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593310" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="tu-qtr-01.html" title="Tủ QTR 01">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile31702024221zoom.jpg?v=1493897747867"
+                    alt="Tủ QTR 01">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="tu-qtr-01.html" data-handle="tu-qtr-01"
+                      class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="tu-qtr-01.html" title="Tủ QTR 01">
+                      Tủ QTR 01
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        5.400.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665271"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593309" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="tu-ao-hut.html" title="Tủ áo HUT">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30874024221zoom.jpg?v=1493897747000"
+                    alt="Tủ áo HUT">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-hut.html" data-handle="tu-ao-hut"
+                      class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="tu-ao-hut.html" title="Tủ áo HUT">
+                      Tủ áo HUT
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        8.000.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665270"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593308" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="tu-ao-b1238.html" title="Tủ áo B1238">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30845024221zoom.jpg?v=1493897746203"
+                    alt="Tủ áo B1238">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-b1238.html" data-handle="tu-ao-b1238"
+                      class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="tu-ao-b1238.html" title="Tủ áo B1238">
+                      Tủ áo B1238
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        5.100.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665269"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593307" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="tu-ao-bellasofa-b1239.html" title="Tủ Áo Bellasofa B1239">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/bigsmile30816024221zoom.jpg?v=1493897745420"
+                    alt="Tủ Áo Bellasofa B1239">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-bellasofa-b1239.html"
+                      data-handle="tu-ao-bellasofa-b1239" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="tu-ao-bellasofa-b1239.html" title="Tủ Áo Bellasofa B1239">
+                      Tủ Áo Bellasofa B1239
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        3.790.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665268"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593306" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="tu-ao-b1241k.html" title="Tủ áo B1241K">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/alexdaisy18858943221zoom.jpg?v=1493897744660"
+                    alt="Tủ áo B1241K">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="tu-ao-b1241k.html" data-handle="tu-ao-b1241k"
+                      class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="tu-ao-b1241k.html" title="Tủ áo B1241K">
+                      Tủ áo B1241K
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        5.400.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665267"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593305" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="tu-quan-ao-big-one-vietnam-wvr-1855l.html" title="Tủ quần áo BIG ONE VIETNAM WVR-1855L">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/alexdaisy04517243221zoom.jpg?v=1493897743913"
+                    alt="Tủ quần áo BIG ONE VIETNAM WVR-1855L">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="tu-quan-ao-big-one-vietnam-wvr-1855l.html"
+                      data-handle="tu-quan-ao-big-one-vietnam-wvr-1855l" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="tu-quan-ao-big-one-vietnam-wvr-1855l.html" title="Tủ quần áo BIG ONE VIETNAM WVR-1855L">
+                      Tủ quần áo BIG ONE VIETNAM WVR-1855L
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        4.000.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665266"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593304" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- /.products -->
+        </div>
+      </div>
+    </div>
+    <script>
+      $('.slick_col3').slick({
+        autoplay: true,
+        autoplaySpeed: 5000,
+        dots: false,
+        arrows: false,
+        speed: 300,
+        rows: 1,
+        loop: false,
+        infinite: false,
+        slidesToShow: 4,
+        slidesToScroll: 2,
+        responsive: [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 4,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 991,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 767,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        }]
+      });
+    </script>
+  </section>
+  <section class="awe-section-8">
+    <div class="section section-deal products-view-grid">
+      <div class="container">
+        <div class="section-title a-center">
+          <h2>
+            Rèm
+          </h2>
+          <p>
+            Những mẫu giường mới nhất 2018
+          </p>
+        </div>
+        <div class="section-content">
+          <div class="products products-view-grid  slick_col4" data-md-items="4"
+          data-sm-items="3" data-xs-items="2" data-margin="30" data-nav="true">
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/39.jpg?v=1493897732810"
+                    alt="Đèn trang trí vách Netviet NV 016">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-016.html"
+                      data-handle="den-trang-tri-vach-netviet-nv-016" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="den-trang-tri-vach-netviet-nv-016.html" title="Đèn trang trí vách Netviet NV 016">
+                      Đèn trang trí vách Netviet NV 016
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        690.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665253"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593291" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/37.jpg?v=1493897732273"
+                    alt="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html"
+                      data-handle="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="den-trang-tri-vach-cao-cap-pha-le-netviet-nv-9005-2.html" title="Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2">
+                      Đèn trang trí vách cao cấp pha lê Netviet NV 9005/2
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        970.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665252"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593289" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/82dd513b5ca0b4e058c5f74ac5700b.jpg?v=1493897731777"
+                    alt="Đèn trang trí vách cao cấp NETVIET NV 8825">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html"
+                      data-handle="den-trang-tri-vach-cao-cap-netviet-nv-8825" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="den-trang-tri-vach-cao-cap-netviet-nv-8825.html" title="Đèn trang trí vách cao cấp NETVIET NV 8825">
+                      Đèn trang trí vách cao cấp NETVIET NV 8825
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        780.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665251"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593288" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/9.jpg?v=1493897731053"
+                    alt="Đèn trang trí vách Netviet NV 8205/1">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="den-trang-tri-vach-netviet-nv-8205-1.html"
+                      data-handle="den-trang-tri-vach-netviet-nv-8205-1" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="den-trang-tri-vach-netviet-nv-8205-1.html" title="Đèn trang trí vách Netviet NV 8205/1">
+                      Đèn trang trí vách Netviet NV 8205/1
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        590.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665250"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593287" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/6.jpg?v=1493897730310"
+                    alt="Đèn tường Composite An Phước B948">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="den-tuong-composite-an-phuoc-b948.html"
+                      data-handle="den-tuong-composite-an-phuoc-b948" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="den-tuong-composite-an-phuoc-b948.html" title="Đèn tường Composite An Phước B948">
+                      Đèn tường Composite An Phước B948
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        10.000.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665249"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593286" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/4.jpg?v=1493897729767"
+                    alt="Đèn treo pha lê green light">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="den-treo-pha-le-green-light.html"
+                      data-handle="den-treo-pha-le-green-light" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="den-treo-pha-le-green-light.html" title="Đèn treo pha lê green light">
+                      Đèn treo pha lê green light
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        150.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665248"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593285" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="giuong-bmy.html" title="Giường BMY">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/elmwood88591626222zoomf5a07d81.jpg?v=1493897729220"
+                    alt="Giường BMY">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="giuong-bmy.html" data-handle="giuong-bmy"
+                      class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="giuong-bmy.html" title="Giường BMY">
+                      Giường BMY
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        14.490.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665247"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input class="hidden" type="hidden" name="variantId" value="10806291"
+                      />
+                      <button class="btn btn-white btn-cart btn  left-to" title="Chọn sản phẩm"
+                      type="button" onclick="window.location.href='giuong-bmy.html'">
+                        <i class="fas fa-plus">
+                        </i>
+                        Tùy chọn
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="product-box">
+                <div class="product-thumbnail">
+                  <a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/large/100/210/557/products/tulip89482122121zoom.jpg?v=1493897728470"
+                    alt="Giường ngủ GN 016">
+                  </a>
+                  <div class="product-action clearfix">
+                    <div class="action-item">
+                      <a data-toggle="tooltip" title="Xem nhanh" href="giuong-ngu-gn-016.html"
+                      data-handle="giuong-ngu-gn-016" class="btn-square btn_view btn  right-to quick-view">
+                        <i class="fab fa-searchengin">
+                        </i>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="product-info a-center">
+                  <h3 class="product-name">
+                    <a href="giuong-ngu-gn-016.html" title="Giường ngủ GN 016">
+                      Giường ngủ GN 016
+                    </a>
+                  </h3>
+                  <div class="price-box clearfix">
+                    <div class="special-price">
+                      <span class="price product-price">
+                        9.800.000₫
+                      </span>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <form action="https://theme-furniture-2.mysapo.net/cart/add" method="post"
+                  class="variants a-center form-nut-grid" data-id="product-actions-6665246"
+                  enctype="multipart/form-data">
+                    <div class="action-item">
+                      <input type="hidden" name="variantId" value="10593283" />
+                      <button class="btn-white btn btn-cart  left-to add_to_cart " title="Thêm vào giỏ hàng">
+                        <i class="fas fa-plus">
+                        </i>
+                        Mua ngay
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- /.products -->
+        </div>
+      </div>
+    </div>
+    <script>
+      $('.slick_col4').slick({
+        autoplay: true,
+        autoplaySpeed: 5000,
+        dots: false,
+        arrows: false,
+        speed: 300,
+        rows: 1,
+        loop: false,
+        infinite: false,
+        slidesToShow: 4,
+        slidesToScroll: 2,
+        responsive: [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 4,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 991,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 767,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1
+          }
+        }]
+      });
+    </script>
+  </section>
+  <section class="awe-section-9">
+    <div class="section section-testimonial parallax" style="background-image: url(template/bizweb.dktcdn.net/100/210/557/themes/801960/assets/testimonialb60e.jpg?1676014753174)">
+      <div class="container">
+        <div class="testimonial  slick_tes" data-lg-items="1" data-md-items="1"
+        data-sm-items="1" data-xs-items="1" data-margin="0" data-dot="true">
+          <div class="item">
+            <div class="testimonial-item a-center">
+              <img alt="Ngọc Trinh" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+              data-src="//bizweb.dktcdn.net/100/210/557/themes/801960/assets/testimonial1.jpg?1676014753174"
+              class="img-circle inline-block lazyload">
+              <h4 class="offset-top-20">
+                <p>
+                  <label class="text-normal">
+                    Ngọc Trinh
+                  </label>
+                </p>
+              </h4>
+              <q class='margin-top-15'>
+                Sản phẩm tốt, thái độ phục vụ chu đáo, đây là nơi mà tôi luôn tin tưởng
+                suốt mấy năm qua
+                <br>
+                Chúng tôi sẽ tiếp tục ủng hộ trong thời gian tới
+              </q>
+              <div class="star">
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+              </div>
+              <div class="line">
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="testimonial-item a-center">
+              <img alt="Cole Stanley" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+              data-src="//bizweb.dktcdn.net/100/210/557/themes/801960/assets/testimonial2.jpg?1676014753174"
+              class="img-circle inline-block lazyload">
+              <h4 class="offset-top-20">
+                <p>
+                  <label class="text-normal">
+                    Cole Stanley
+                  </label>
+                </p>
+              </h4>
+              <q class='margin-top-15'>
+                Sản phẩm tốt, thái độ phục vụ chu đáo, đây là nơi mà tôi luôn tin tưởng
+                suốt mấy năm qua
+              </q>
+              <div class="star">
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+              </div>
+              <div class="line">
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="testimonial-item a-center">
+              <img alt="Cole Stanley 2" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+              data-src="//bizweb.dktcdn.net/100/210/557/themes/801960/assets/testimonial3.jpg?1676014753174"
+              class="img-circle inline-block lazyload">
+              <h4 class="offset-top-20">
+                <p>
+                  <label class="text-normal">
+                    Cole Stanley 2
+                  </label>
+                </p>
+              </h4>
+              <q class='margin-top-15'>
+                Sản phẩm tốt, thái độ phục vụ chu đáo, đây là nơi mà tôi luôn tin tưởng
+                suốt mấy năm qua
+              </q>
+              <div class="star">
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+                <i class="fa fa-star">
+                </i>
+              </div>
+              <div class="line">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      $('.slick_tes').slick({
+        autoplay: true,
+        autoplaySpeed: 5000,
+        dots: false,
+        arrows: false,
+        speed: 300,
+        rows: 1,
+        loop: false,
+        infinite: false,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        responsive: [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 991,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 767,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        }]
+      });
+    </script>
+  </section>
+  <section class="awe-section-10">
+    <section class="section section-news">
+      <div class="container">
+        <div class="section-title a-center">
+          <h2>
+            <a href="tin-tuc.html">
+              Tin tức
+            </a>
+          </h2>
+        </div>
+        <div class="section-content">
+          <div class="slick_blog" data-lg-items="3" data-md-items="3" data-sm-items="3"
+          data-xs-items="2" data-margin="30" data-nav="true">
+            <div class="item">
+              <article class="blog-item">
+                <div class="blog-item-thumbnail">
+                  <a href="top-nhung-cach-phoi-mau-cho-can-phong-dep.html" class="img26">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/grande/100/210/557/articles/blog-detail-3b2beed9-bf42-466e-a845-47c3dcbd04e7-f64c0fdd-155d-4265-b9db-a10fcce7c2ac.jpg?v=1494385364443"
+                    alt="Top những cách phối màu cho căn phòng đẹp">
+                  </a>
+                </div>
+                <div class="blog-item-info">
+                  <h3 class="blog-item-name">
+                    <a href="top-nhung-cach-phoi-mau-cho-can-phong-dep.html">
+                      Top những cách phối màu cho căn phòng đẹp
+                    </a>
+                  </h3>
+                  <div class="post-time">
+                    <i class="fa fa-clock-o">
+                    </i>
+                    May 10, 17 by
+                    <span class="author">
+                      Đặng Hữu Danh
+                    </span>
+                  </div>
+                  <p class="blog-item-summary margin-bottom-10">
+                    Đối với gia đình Việt, phòng bếp luôn là nơi quan trọng vì ở đó, gia đình
+                    quây quần sum...
+                  </p>
+                  <a href="top-nhung-cach-phoi-mau-cho-can-phong-dep.html" class="btn btn-link">
+                    Xem thêm
+                    <i class="arrow_right">
+                    </i>
+                  </a>
+                </div>
+              </article>
+            </div>
+            <div class="item">
+              <article class="blog-item">
+                <div class="blog-item-thumbnail">
+                  <a href="phoi-mau-noi-that-phong-cach-hien-dai.html" class="img26">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/grande/100/210/557/articles/blog-03.jpg?v=1494385154030"
+                    alt="Phối màu nội thất phong cách hiện đại">
+                  </a>
+                </div>
+                <div class="blog-item-info">
+                  <h3 class="blog-item-name">
+                    <a href="phoi-mau-noi-that-phong-cach-hien-dai.html">
+                      Phối màu nội thất phong cách hiện đại
+                    </a>
+                  </h3>
+                  <div class="post-time">
+                    <i class="fa fa-clock-o">
+                    </i>
+                    May 06, 17 by
+                    <span class="author">
+                      Đặng Hữu Danh
+                    </span>
+                  </div>
+                  <p class="blog-item-summary margin-bottom-10">
+                    Theo kiến trúc sư Phạm Ngọc Thiên Ân, màu sắc trong nội thất được sử dụng
+                    như một loại ngôn...
+                  </p>
+                  <a href="phoi-mau-noi-that-phong-cach-hien-dai.html" class="btn btn-link">
+                    Xem thêm
+                    <i class="arrow_right">
+                    </i>
+                  </a>
+                </div>
+              </article>
+            </div>
+            <div class="item">
+              <article class="blog-item">
+                <div class="blog-item-thumbnail">
+                  <a href="10-cach-phoi-mau-cho-can-phong-dep.html" class="img26">
+                    <img class="lazyload" src="http://bizweb.dktcdn.net/100/210/557/themes/801960/assets/rolling.svg?1676014753174"
+                    data-src="//bizweb.dktcdn.net/thumb/grande/100/210/557/articles/blog-02.jpg?v=1494385143167"
+                    alt="10 cách phối màu cho căn phòng đẹp">
+                  </a>
+                </div>
+                <div class="blog-item-info">
+                  <h3 class="blog-item-name">
+                    <a href="10-cach-phoi-mau-cho-can-phong-dep.html">
+                      10 cách phối màu cho căn phòng đẹp
+                    </a>
+                  </h3>
+                  <div class="post-time">
+                    <i class="fa fa-clock-o">
+                    </i>
+                    May 06, 17 by
+                    <span class="author">
+                      Đặng Hữu Danh
+                    </span>
+                  </div>
+                  <p class="blog-item-summary margin-bottom-10">
+                    Đối với gia đình Việt, phòng bếp luôn là nơi quan trọng vì ở đó, gia đình
+                    quây quần sum...
+                  </p>
+                  <a href="10-cach-phoi-mau-cho-can-phong-dep.html" class="btn btn-link">
+                    Xem thêm
+                    <i class="arrow_right">
+                    </i>
+                  </a>
+                </div>
+              </article>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script>
+      $('.slick_blog').slick({
+        autoplay: true,
+        autoplaySpeed: 5000,
+        dots: false,
+        arrows: false,
+        speed: 300,
+        rows: 1,
+        loop: false,
+        infinite: false,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        responsive: [{
+          breakpoint: 1200,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 3
+          }
+        },
+        {
+          breakpoint: 1024,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 3
+          }
+        },
+        {
+          breakpoint: 991,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 2
+          }
+        },
+        {
+          breakpoint: 767,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 2
+          }
+        }]
+      });
+    </script>
+  </section>
+
+@endsection
