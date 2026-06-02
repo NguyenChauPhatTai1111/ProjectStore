@@ -18,6 +18,9 @@ migrate:
 fresh:
 	docker exec -it $(APP) php artisan migrate:fresh
 
+seed:
+	docker exec -it $(APP) php artisan migrate:fresh --seed
+
 status:
 	docker exec -it $(APP) php artisan migrate:status
 
@@ -27,3 +30,11 @@ chat-init:
 	docker exec -it $(APP) php artisan make:model Message -m
 	docker exec -it $(APP) php artisan make:controller ChatController
 	@echo "Chat files created. Now edit migration + controller."
+
+inertia:
+	docker exec -it $(APP) php artisan inertia:middleware
+npm:
+	docker exec -it $(APP) npm install
+
+dev:
+	docker exec -it $(APP) npm run dev
