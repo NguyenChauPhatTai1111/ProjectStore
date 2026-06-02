@@ -80,14 +80,14 @@
 							<div class="col-md-6">
 								<fieldset class="form-group">
 									<label>Email <span class="required">*</span></label>
-									<input type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,63}$" class="form-control form-control-lg" value="" name="email" id="email"  placeholder="" required="">
+										<input type="email" class="form-control form-control-lg" value="" name="email" id="email"  placeholder="" required="">
 								</fieldset>
 							</div>
 							<div class="col-md-6">
 
 								<fieldset class="form-group">
 									<label>Mật khẩu <span class="required">*</span> </label>
-									<input type="password" class="form-control form-control-lg" value="" name="password" id="password" placeholder="" required >
+										<input type="password" autocomplete="current-password" class="form-control form-control-lg" value="" name="password" id="password" placeholder="" required >
 								</fieldset>
 							</div>
 						</div>

@@ -1019,7 +1019,7 @@ type="text/javascript">
 		.then(res => res.json())
 		.then(data => {
 			if (data.status === 'success') {
-				window.location.href = data.redirect || "{{ route('home') }}";
+				window.location.href = "{{ route('home') }}";
 			} else {
 				Swal.fire({
 					icon: 'error',

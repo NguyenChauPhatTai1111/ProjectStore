@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\AdminController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -17,3 +18,19 @@ Route::get('register', function (){
     return view('register');
 })->name('register');
 Route::post('/register', [AuthController::class, 'register']); 
+
+
+// admin routes
+Route::get('/admin', [AdminController::class, 'index'])->name('admin.dashboard');
+
+use App\Http\Controllers\ChatController;
+
+Route::middleware('auth')->group(function () {
+
+    Route::get('/chat/{userId}', [ChatController::class, 'index']);
+
+    Route::get('/messages/{userId}', [ChatController::class, 'fetch']);
+
+    Route::post('/messages', [ChatController::class, 'send']);
+
+});

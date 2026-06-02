@@ -128,7 +128,7 @@
                       *
                     </span>
                   </label>
-                  <input type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,63}$"
+                  <input type="email"
                   class="form-control form-control-lg" value="" name="email" id="email"
                   placeholder="Email" Required>
                 </fieldset>
@@ -139,7 +139,7 @@
                       *
                     </span>
                   </label>
-                  <input type="password" class="form-control form-control-lg" value="" name="password"
+                  <input type="password" autocomplete="current-password" class="form-control form-control-lg" value="" name="password"
                   id="password" placeholder="Mật khẩu" Required>
                 </fieldset>
                @if(session('error'))
@@ -154,11 +154,11 @@
                 @endif
                 <div class="pull-xs-left" style="margin-top: 25px; display: flex; justify-content: center; text-align: center;">
                     <div class="button">
-                    <button class="btn btn-style btn-primary" type="submit" value="Đăng nhập" 
+                    <button class="btn btn-style btn-primary" type="submit" value="Đăng nhập" id="loginBtn"
                     >
                     Đăng nhập
                     </div>
-                    <a href="register.html" class="btn-link-style btn-register" style="margin-left: 20px;text-decoration: underline; ">
+                    <a href="{{ route('register') }}" class="btn-link-style btn-register" style="margin-left: 20px;text-decoration: underline; ">
                     Đăng ký
                     </a>
                 </div>
@@ -188,7 +188,7 @@
                     *
                   </span>
                 </label>
-                <input type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,63}$"
+                <input type="email"
                 class="form-control form-control-lg" value="" name="Email" id="recover-email"
                 placeholder="Email" Required>
               </fieldset>

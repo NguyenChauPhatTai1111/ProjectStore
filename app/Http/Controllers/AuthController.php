@@ -30,12 +30,22 @@ class AuthController extends Controller
             'email' => $request->email,
             'password' => $request->password
         ])) {
-
             $request->session()->regenerate();
+
+            $user = Auth::user();
+
+            if ($user->role === 'admin') {
+                return response()->json([
+                    'status' => 'success',
+                    'message' => 'Đăng nhập thành công',
+                    'redirect' => route('admin.dashboard')
+                ]);
+            }
 
             return response()->json([
                 'status' => 'success',
-                'message' => 'Đăng nhập thành công'
+                'message' => 'Đăng nhập thành công',
+                'redirect' => route('home')
             ]);
         }
 
@@ -56,12 +66,9 @@ class AuthController extends Controller
         $user = User::create([
             'name' => $request->name,
             'email' => $request->email,
+            'role' => 'user',
             'password' => Hash::make($request->password),
         ]);
-
-        Auth::login($user);
-
-        $request->session()->regenerate();
 
         return redirect()->back()->with('success', 'Đăng ký thành công');
     }
