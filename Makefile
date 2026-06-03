@@ -38,3 +38,5 @@ npm:
 
 dev:
 	docker exec -it $(APP) npm run dev
+middleware:
+	docker exec -it $(APP) php artisan make:middleware CheckPermission

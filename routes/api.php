@@ -19,7 +19,7 @@ Route::get('/hello', function () {
 
 
 Route::get('/users', function () {
-    return User::select('id', 'name', 'email')->get();
+    return User::select('id', 'name', 'email', 'role')->get();
 });
 
 Route::get('/products', function () {
@@ -31,6 +31,7 @@ Route::post('/login', function (Request $request) {
         'email' => ['required', 'email'],
         'password' => ['required'],
     ]);
+
 
     $user = User::where('email', $request->email)->first();
 
@@ -51,3 +52,5 @@ Route::post('/login', function (Request $request) {
         ]
     ]);
 });
+
+
