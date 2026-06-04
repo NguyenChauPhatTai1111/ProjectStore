@@ -5,6 +5,8 @@ use Illuminate\Support\Facades\Route;
 use App\Models\User;
 use App\Models\Product;
 use Illuminate\Support\Facades\Hash;
+use App\Http\Controllers\AiChatController;
+
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -116,3 +118,5 @@ Route::post('/users', function (Request $request) {
         ]
     ], 201);
 });
+
+Route::post('/chat', [AiChatController::class, 'chat']);
