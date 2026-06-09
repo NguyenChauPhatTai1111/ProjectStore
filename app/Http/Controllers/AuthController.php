@@ -34,10 +34,16 @@ class AuthController extends Controller
 
             $user = Auth::user();
 
+            $token = $user->api_token ?? Str::random(60);
+
+            $user->api_token = $token;
+            $user->save();
+
             if ($user->role === 'admin') {
                 return response()->json([
                     'status' => 'success',
                     'message' => 'Đăng nhập thành công',
+                    'token' => $token,
                     'redirect' => route('admin.dashboard')
                 ]);
             }
@@ -45,6 +51,7 @@ class AuthController extends Controller
             return response()->json([
                 'status' => 'success',
                 'message' => 'Đăng nhập thành công',
+                'token' => $token,
                 'redirect' => route('home')
             ]);
         }
