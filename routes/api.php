@@ -9,6 +9,7 @@ use App\Http\Controllers\AiChatController;
 use Illuminate\Support\Facades\Storage;
 use App\Http\Controllers\MusicController;
 use App\Http\Controllers\Api\FavoriteMusicController;
+use App\Http\Controllers\Api\OphimController;
 
 /*
 |--------------------------------------------------------------------------
@@ -190,3 +191,14 @@ Route::middleware('auth.token')->group(function () {
     Route::delete('/favorite-music/{id}', [FavoriteMusicController::class, 'destroy']);
 
 });
+
+
+
+Route::get('/movies', [OphimController::class, 'movies']);
+Route::get('/movies/search', [OphimController::class, 'search']);
+Route::get('/movies/country/{country}', [OphimController::class, 'country']);
+Route::get(
+    '/movies/category/{category}',
+    [OphimController::class, 'category']
+);
+Route::get('/movies/{slug}', [OphimController::class, 'detail']);
