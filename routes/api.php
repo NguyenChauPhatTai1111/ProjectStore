@@ -10,7 +10,10 @@ use Illuminate\Support\Facades\Storage;
 use App\Http\Controllers\MusicController;
 use App\Http\Controllers\Api\FavoriteMusicController;
 use App\Http\Controllers\Api\OphimController;
-
+use App\Http\Controllers\QuizController;
+use App\Http\Controllers\QuestionController;
+use App\Http\Controllers\AnswerController;
+use App\Http\Controllers\QuizResultController;
 /*
 |--------------------------------------------------------------------------
 | API Routes
@@ -202,3 +205,29 @@ Route::get(
     [OphimController::class, 'category']
 );
 Route::get('/movies/{slug}', [OphimController::class, 'detail']);
+
+
+
+// quiz game?
+
+Route::apiResource('quizzes', QuizController::class);
+
+Route::apiResource('questions', QuestionController::class);
+
+Route::apiResource('answers', AnswerController::class);
+
+Route::apiResource('quiz-results', QuizResultController::class);
+
+Route::post(
+    '/quizzes/{quiz}/submit',
+    [QuizController::class, 'submit']
+);
+
+Route::get(
+    '/leaderboard',
+    [QuizController::class, 'leaderboard']
+);
+
+Route::get('/quizzes', [QuizController::class, 'index']);
+
+Route::get('/quizzes/{id}', [QuizController::class, 'show']);
