@@ -11,37 +11,33 @@ class QuizSeeder extends Seeder
 {
     public function run(): void
     {
-        $quiz = Quiz::create([
-            'title' => 'Laravel Basic',
-            'description' => 'Laravel Quiz'
-        ]);
+        for ($quizIndex = 1; $quizIndex <= 10; $quizIndex++) {
 
-        $q1 = Question::create([
-            'quiz_id' => $quiz->id,
-            'question' => 'Laravel được viết bằng ngôn ngữ nào?'
-        ]);
+            $quiz = Quiz::create([
+                'title' => "Quiz {$quizIndex}",
+                'description' => "Bài kiểm tra số {$quizIndex}",
+                'is_active' => true,
+            ]);
 
-        Answer::insert([
-            [
-                'question_id' => $q1->id,
-                'answer_text' => 'PHP',
-                'is_correct' => true
-            ],
-            [
-                'question_id' => $q1->id,
-                'answer_text' => 'Java',
-                'is_correct' => false
-            ],
-            [
-                'question_id' => $q1->id,
-                'answer_text' => 'Python',
-                'is_correct' => false
-            ],
-            [
-                'question_id' => $q1->id,
-                'answer_text' => 'C#',
-                'is_correct' => false
-            ],
-        ]);
+            for ($questionIndex = 1; $questionIndex <= 15; $questionIndex++) {
+
+                $question = Question::create([
+                    'quiz_id' => $quiz->id,
+                    'question' => "Đây là câu hỏi {$questionIndex} của Quiz {$quizIndex}?",
+                    'image' => null,
+                ]);
+
+                $correctAnswer = rand(1, 4);
+
+                for ($answerIndex = 1; $answerIndex <= 4; $answerIndex++) {
+
+                    Answer::create([
+                        'question_id' => $question->id,
+                        'answer_text' => "Đáp án {$answerIndex}",
+                        'is_correct' => $answerIndex === $correctAnswer,
+                    ]);
+                }
+            }
+        }
     }
 }

@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use Illuminate\Support\Str;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Models\User;
@@ -20,47 +20,37 @@ class AuthController extends Controller
     }
 
     public function login(Request $request)
-    {
-        $request->validate([
-            'email' => 'required|email',
-            'password' => 'required'
-        ]);
+{
+    $request->validate([
+        'email' => 'required|email',
+        'password' => 'required'
+    ]);
 
-        if (Auth::attempt([
-            'email' => $request->email,
-            'password' => $request->password
-        ])) {
-            $request->session()->regenerate();
+    if (Auth::attempt([
+        'email' => $request->email,
+        'password' => $request->password
+    ])) {
+        $request->session()->regenerate();
 
-            $user = Auth::user();
+        $user = Auth::user();
 
-            $token = $user->api_token ?? Str::random(60);
+        // ✅ TẠO TOKEN ĐÚNG
+        $token = Str::random(60);
 
-            $user->api_token = $token;
-            $user->save();
-
-            if ($user->role === 'admin') {
-                return response()->json([
-                    'status' => 'success',
-                    'message' => 'Đăng nhập thành công',
-                    'token' => $token,
-                    'redirect' => route('admin.dashboard')
-                ]);
-            }
-
-            return response()->json([
-                'status' => 'success',
-                'message' => 'Đăng nhập thành công',
-                'token' => $token,
-                'redirect' => route('home')
-            ]);
-        }
+        $user->api_token = $token;
+        $user->save();
 
         return response()->json([
-            'status' => 'error',
-            'message' => 'Sai tài khoản hoặc mật khẩu'
-        ], 401);
+            'status' => 'success',
+            'token' => $token,   // 👈 cái này frontend dùng
+        ]);
     }
+
+    return response()->json([
+        'status' => 'error',
+        'message' => 'Sai tài khoản hoặc mật khẩu'
+    ], 401);
+}
 
     public function register(Request $request)
     {
@@ -88,5 +78,9 @@ class AuthController extends Controller
         $request->session()->regenerateToken();
 
         return redirect()->route('login');
+    }
+    public function quizAttempts()
+    {
+        return $this->hasMany(QuizAttempt::class);
     }
 }

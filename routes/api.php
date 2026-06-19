@@ -231,3 +231,12 @@ Route::get(
 Route::get('/quizzes', [QuizController::class, 'index']);
 
 Route::get('/quizzes/{id}', [QuizController::class, 'show']);
+
+Route::middleware('auth.token')->group(function () {
+    Route::post('/quizzes/{quiz}/submit', [QuizController::class, 'submit']);
+}); 
+Route::get(
+    '/quiz-history',
+    [QuizController::class, 'history']
+);
+Route::get('/quiz-statistics', [QuizController::class, 'statistics']);

@@ -3,11 +3,12 @@
 namespace App\Http\Middleware;
 
 use Closure;
+use Illuminate\Http\Request;
 use App\Models\User;
 
 class AuthToken
 {
-    public function handle($request, Closure $next)
+    public function handle(Request $request, Closure $next)
     {
         $token = $request->bearerToken();
 
@@ -21,7 +22,8 @@ class AuthToken
             return response()->json(['message' => 'Unauthorized'], 401);
         }
 
-        $request->setUserResolver(fn () => $user);
+        // gắn user vào auth
+        auth()->setUser($user);
 
         return $next($request);
     }
