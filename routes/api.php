@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Storage;
 use App\Http\Controllers\MusicController;
 use App\Http\Controllers\Api\FavoriteMusicController;
 use App\Http\Controllers\Api\OphimController;
+use App\Http\Controllers\AuthController;
 use App\Http\Controllers\QuizController;
 use App\Http\Controllers\QuestionController;
 use App\Http\Controllers\AnswerController;
@@ -35,32 +36,7 @@ Route::get('/products', function () {
     return Product::select('id', 'name', 'price', 'discount_price')->get();
 });
 
-Route::post('/login', function (Request $request) {
-    $request->validate([
-        'email' => ['required', 'email'],
-        'password' => ['required'],
-    ]);
-
-
-    $user = User::where('email', $request->email)->first();
-
-    if (!$user || !Hash::check($request->password, $user->password)) {
-        return response()->json([
-            'success' => false,
-            'message' => 'Email hoặc mật khẩu không đúng',
-        ], 401);
-    }
-
-    return response()->json([
-        'success' => true,
-        'token' => base64_encode($user->id . '|' . now()),
-        'user' => [
-            'id' => $user->id,
-            'name' => $user->name,
-            'email' => $user->email,
-        ]
-    ]);
-});
+Route::post('/login', [AuthController::class, 'login']);
 
 Route::get('/users/{id}', function ($id) {
     return User::select(

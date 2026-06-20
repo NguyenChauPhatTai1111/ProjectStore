@@ -20,6 +20,7 @@ class User extends Authenticatable
         'name',
         'email',
         'role',
+        'api_token',
         'password',
     ];
 

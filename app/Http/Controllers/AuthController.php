@@ -19,30 +19,34 @@ class AuthController extends Controller
         return view('register');
     }
 
-    public function login(Request $request)
+
+   public function login(Request $request)
+
 {
+
     $request->validate([
         'email' => 'required|email',
         'password' => 'required'
     ]);
 
+
     if (Auth::attempt([
         'email' => $request->email,
         'password' => $request->password
     ])) {
-        $request->session()->regenerate();
+        // $request->session()->regenerate();
 
         $user = Auth::user();
-
-        // ✅ TẠO TOKEN ĐÚNG
-        $token = Str::random(60);
-
+        // ✅ TOKEN CỐ ĐỊNH
+        $token = 'MXwyMDI2LTA2LTIwIDA3OjUxOjUz';
+        
         $user->api_token = $token;
         $user->save();
 
         return response()->json([
             'status' => 'success',
-            'token' => $token,   // 👈 cái này frontend dùng
+            'user' => $user,
+            'token' => $token,
         ]);
     }
 
