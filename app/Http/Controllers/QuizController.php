@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Quiz;
 use Illuminate\Http\Request;
 use App\Models\Answer;
+use App\Models\User;
 use App\Models\QuizAttempt;
 class QuizController extends Controller
 {
@@ -120,11 +121,11 @@ class QuizController extends Controller
             'percentage' => $percentage,
         ]);
     }
+
     public function history()
     {
         return QuizAttempt::with('quiz')
-            ->where('user_id', auth()->id())
-            ->latest()
+            ->orderByDesc('created_at')
             ->get();
     }
     public function statistics()

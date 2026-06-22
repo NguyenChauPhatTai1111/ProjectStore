@@ -142,7 +142,7 @@ Route::post('/products', function (Request $request) {
     $product = Product::create([
         'name' => $request->name,
         'price' => $request->price,
-        'slug' => Str::slug($request->name),
+        'slug' => Storage::slug($request->name),
         'quantity' => $request->quantity,
         'image' => $imagePath,
     ]);
@@ -212,7 +212,7 @@ Route::middleware('auth.token')->group(function () {
     Route::post('/quizzes/{quiz}/submit', [QuizController::class, 'submit']);
 }); 
 Route::get(
-    '/quiz-history',
+    '/quiz_attempts',
     [QuizController::class, 'history']
 );
 Route::get('/quiz-statistics', [QuizController::class, 'statistics']);
