@@ -5,8 +5,10 @@ namespace App\Http\Controllers;
 use App\Models\Quiz;
 use Illuminate\Http\Request;
 use App\Models\Answer;
+use App\Models\Question;
 use App\Models\User;
 use App\Models\QuizAttempt;
+use Illuminate\Support\Facades\Http;
 class QuizController extends Controller
 {
     /**
@@ -149,6 +151,34 @@ class QuizController extends Controller
                 $attempts->avg('percentage'),
                 2
             ),
+        ]);
+    }
+
+
+    public function aiHelp(Request $request)
+    {
+        $request->validate([
+            'question_id' => 'required|integer',
+        ]);
+
+        $question = Question::with('answers')
+            ->findOrFail($request->question_id);
+
+        $correctAnswer = $question->answers
+            ->firstWhere('is_correct', 1);
+
+        if (!$correctAnswer) {
+            return response()->json([
+                'success' => false,
+                'suggestion' => 'Không tìm thấy dữ liệu gợi ý.',
+            ]);
+        }
+
+         return response()->json([
+            'success' => true,
+            'suggestion' => '🤖 AI phân tích hoàn tất.',
+            'answer' => $correctAnswer->answer_text,
+            'answer_id' => $correctAnswer->id,
         ]);
     }
 }

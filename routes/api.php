@@ -14,6 +14,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\QuizController;
 use App\Http\Controllers\QuestionController;
 use App\Http\Controllers\AnswerController;
+use App\Http\Controllers\QuizQuestionMarkController;
 use App\Http\Controllers\QuizResultController;
 /*
 |--------------------------------------------------------------------------
@@ -210,9 +211,12 @@ Route::get('/quizzes/{id}', [QuizController::class, 'show']);
 
 Route::middleware('auth.token')->group(function () {
     Route::post('/quizzes/{quiz}/submit', [QuizController::class, 'submit']);
+    Route::post('/quiz/{quiz}/questions/{question}/mark', [QuizQuestionMarkController::class, 'toggle']);
+    Route::get('/quiz/{quiz}/marks', [QuizQuestionMarkController::class, 'list']);
 }); 
 Route::get(
     '/quiz_attempts',
     [QuizController::class, 'history']
 );
 Route::get('/quiz-statistics', [QuizController::class, 'statistics']);
+Route::post('/quiz/ai-help', [QuizController::class, 'aiHelp']);
