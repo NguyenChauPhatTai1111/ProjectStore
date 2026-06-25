@@ -213,10 +213,11 @@ Route::middleware('auth.token')->group(function () {
     Route::post('/quizzes/{quiz}/submit', [QuizController::class, 'submit']);
     Route::post('/quiz/{quiz}/questions/{question}/mark', [QuizQuestionMarkController::class, 'toggle']);
     Route::get('/quiz/{quiz}/marks', [QuizQuestionMarkController::class, 'list']);
+    Route::post('/quiz/ai-help', [QuizController::class, 'aiHelp']);
+
 }); 
 Route::get(
     '/quiz_attempts',
     [QuizController::class, 'history']
 );
 Route::get('/quiz-statistics', [QuizController::class, 'statistics']);
-Route::post('/quiz/ai-help', [QuizController::class, 'aiHelp']);
